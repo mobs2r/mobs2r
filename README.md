@@ -16,8 +16,8 @@
 *   **Twitch:** [mobs2r](https://twitch.tv/mobs2r)
 *   **Roblox:** [mobs2r](https://www.roblox.com/users/2009158571/profile)
 *   **Xwitter:** [mobs2r](https://x.com/mobs2r)
-*   **YouTube:** [mobs2r](https://www.youtube.com/@mobs2r)
 *   **Discord:** [mobs2r](https://discordapp.com/users/694697572270604308)
+*   **YouTube:** [mobs2r](https://www.youtube.com/@mobs2r)
 *   **NameMC:** [mobs2r](https://namemc.com/profile/mobs2r)
 
 ---
