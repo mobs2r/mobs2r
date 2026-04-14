@@ -19,6 +19,7 @@
 *   **Discord:** [mobs2r](https://discordapp.com/users/694697572270604308)
 *   **YouTube:** [mobs2r](https://www.youtube.com/@mobs2r)
 *   **NameMC:** [mobs2r](https://namemc.com/profile/mobs2r)
+*   **Instagram:** [mobs2r](https://www.instagram.com/mobs2r)
 
 ---
 
