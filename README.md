@@ -1,6 +1,6 @@
 # 🌲 Alyx [mobs2r]
 
-> *"I am a Swiss Army knife of IDM, an old school innovator. I don't just solve problems; I re-engineer the paradigm."*
+> *"I am a Swiss Army knife of interactive digital media, an old school innovator. I don't just solve problems; I re-engineer the paradigm."*
 
 ---
 
