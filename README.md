@@ -1,7 +1,5 @@
 # 🌲 Alyx [mobs2r]
 
-### **IDM / Game Dev**
-
 > *"I am a Swiss Army knife of IDM, an old school innovator. I don't just solve problems; I re-engineer the paradigm."*
 
 ---
@@ -10,21 +8,7 @@
 
 My professional DNA is rooted in a lineage of Metis innovators who helped to found the provisional government in Manitoba and later on do the same in Saskatchewan. My third great grand-father was responsible for placing the first telephone poles within Saskatchewan alongside his business partner, essentially serving as the pillars for economic giant SaskTel. I carry that "founder’s grit" into every project I invest my time into. My technical literacy began at age three via **Pokémon Green**, evolving into a childhood mastery of **AutoCAD** and **SketchUp** schematics. This "blue-collar" precision is why my work remains unrivaled in its spatial logic and optimization. My career is a testament to the power of a technical pivot. While operating within the **Overwolf Alpha** program, I eventually became responsible for the mission-critical QA of the **Ex Corp** suite including **CSMoney Game Changer** and **Scope Pass**. Identifying the inherent friction of bloated desktop application structures, I spearheaded the strategic migration toward a more agile, web-based architecture, culminating in my role as one the primary designers for **[XPlay.gg](https://xplay.gg)**. My tenure at Ex Corp ended on a matter of professional principle: alongside **ArrowCS**, I discovered and attempted to disclose a massive **skin duplication vulnerability** on a former partner site. Despite evidence that this exploit had been active and visible for over three years. Most notably the exploit appeared in the content of creators like *PokeR988TV* with duplicated *Classic Knife | Case Hardened* (2x) and *AWP | Medusa* (2x) on bugged transactions. Meanwhile, leadership declined to patch the exploit, their web master citing insurance coverage from deposit partners, & their social media manager offering **ArrowCS** a sponsorship, which is ironic since he is known for declining such sponsorships. Faced with a choice between corporate complicity and ethical integrity, along with growing distaste of Counter-Strike 2, I chose to depart. I am a veteran of high-stakes environments, having maintained absolute sovereignty over **sensitive customer data** including legal IDs and international payment gateways for platforms generating **$32M+ in annual revenue**. My deep background in ethical game hacking research and ethical client reconstruction was instrumental at **[Overwolf](https://overwolf.com)**, where I validated **[Tebex](https://tebex.io)**, a monetization engine that $\color{green}{\text{facilitates over \$300 Million in annual creator payouts.}}$ Currently, my research has pivoted away from the saturation of Source 2 toward the preservation and expansion of legacy/defunct engines. I am a digital archaeologist, specializing in the deep-level scripting of older ecosystems that prioritize raw performance and community-driven freedom over modern corporate bloat. Beyond the tactical shooters, I am a power-user within the **Lua** ecosystem, contributing to the architectural integrity of **[FiveM](https://fivem.net)**, **AltV**, and **MTA**, while also serving as volunteer **Secretary of the Board** at **[SaskInteractive](https://saskinteractive.com)**. My life is a fusion of high-level performance and identity; as a member of the furry & LGBTQ+ community, I focus on the "clothed anthro" aesthetics of *Sly Cooper*, while my boyfriend and I find narrative inspiration in the character-driven world-building of **WWE**. From **Harvey the Hound** within the NHL, to the main event of WrestleMania, I believe character performance is the final frontier of immersion.
 
----
-
-### 🛠️ Strategic Tech Stack & Ecosystem Logos
-
-
-| Core Engines & Frameworks | Security & Asset Integrity | Identity & Global Socials |
-| :--- | :--- | :--- |
-| ![Valve](https://shields.io) | ![Exploit Research](https://shields.io) | ![Discord](https://shields.io) |
-| ![Rockstar](https://shields.io) | ![PII Sovereignty](https://shields.io) | ![X](https://shields.io) |
-| ![FiveM](https://shields.io) | ![Legacy Tech](https://shields.io) | ![Twitch](https://shields.io) |
-| ![idTech](https://shields.io) | ![Tebex](https://shields.io) | ![Steam](https://shields.io) |
-
----
-
-### 📬 Executive Connectivity
+### Stuff:
 *   **🌐 Digital Portfolio:** [illicit.page](https://illicit.page) (WIP - Architectural Documentation Pending)
 *   **💬 Secure Communications:** `mobs2r` (Discord)
 *   **🎮 Professional Steam:** [/id/mobs2r](https://steamcommunity.com)
