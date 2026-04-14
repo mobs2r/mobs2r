@@ -6,10 +6,12 @@
 
 ### Stuff:
 *   **🌐 Omerta:** [illicit.page](https://illicit.page) (WIP)
-*   **💬 Discord:** `mobs2r` (Discord)
-*   **🎮 Steam:** [/id/mobs2r](https://steamcommunity.com)
-*   **📺 Twitch:** [twitch.tv/mobs2r](https://twitch.tv)
-*   **🐦 Xwitter:** [@mobs2r](https://x.com)
+*   **🩻 XPlay:** [xplay.gg](https://xplay.gg/ref/mobs2r)
+*   **🔫 Guns:** [mobs2r](https://guns.lol/mobs2r)
+*   **💬 Discord:** [mobs2r](https://discordapp.com/users/694697572270604308)
+*   **🎮 Steam:** [mobs2r](https://steamcommunity.com/id/mobs2r)
+*   **📺 Twitch:** [mobs2r](https://twitch.tv/mobs2r)
+*   **🐦 Xwitter:** [mobs2r](https://x.com/mobs2r)
 
 ---
 
