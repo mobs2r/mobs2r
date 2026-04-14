@@ -10,11 +10,15 @@
 *   **🩻 XPlay:** [xplay.gg](https://xplay.gg/ref/mobs2r)
 
 ### Social:
-*   **🔫 Guns:** [mobs2r](https://guns.lol/mobs2r)
-*   **🎮 Steam:** [mobs2r](https://steamcommunity.com/id/mobs2r)
-*   **📺 Twitch:** [mobs2r](https://twitch.tv/mobs2r)
-*   **🐦 Xwitter:** [mobs2r](https://x.com/mobs2r)
-*   **💬 Discord:** [mobs2r](https://discordapp.com/users/694697572270604308)
+*   **Guns:** [mobs2r](https://guns.lol/mobs2r)
+*   **Roblox:** [mobs2r](https://www.roblox.com/users/2009158571/profile)
+*   **NameMC:** [mobs2r](https://namemc.com/profile/mobs2r)
+*   **Steam:** [mobs2r](https://steamcommunity.com/id/mobs2r)
+*   **Twitch:** [mobs2r](https://twitch.tv/mobs2r)
+*   **Xwitter:** [mobs2r](https://x.com/mobs2r)
+*   **YouTube:** [mobs2r](https://www.youtube.com/@mobs2r)
+*   **Kick:** [mobs2r](https://kick.com/mobs2r)
+*   **Discord:** [mobs2r](https://discordapp.com/users/694697572270604308)
 
 ---
 
