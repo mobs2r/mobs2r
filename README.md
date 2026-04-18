@@ -31,6 +31,6 @@
 *   **Instagram:** [mobs2r](https://www.instagram.com/mobs2r)
 *   **Giant Bomb:** [mobs2r](https://www.giantbomb.com/profile/mobs2r/)
 *   **LambdaGeneration:** [mobs2r](https://community.lambdageneration.com/user/mobs2r)
-*   **sneaK's Community:** [mobs2r]([https://snksrv.com/threads/mobs2rs-staff-application.384/](https://snksrv.com/members/mobs2r.4074/))
+*   **sneaK's Community:** [mobs2r](https://snksrv.com/members/mobs2r.4074/)
 
 ---
