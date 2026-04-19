@@ -11,8 +11,8 @@
 
 ### 🕹️ Links
 
-*   [Guns](https://guns.lol/mobs2r/)
 *   [Kick](https://kick.com/mobs2r/)
+*   [Guns](https://guns.lol/mobs2r/)
 *   [Quora](https://www.quora.com/profile/mobs2r)
 *   [Steam](https://steamcommunity.com/id/mobs2r/)
 *   [Twitch](https://twitch.tv/mobs2r)
