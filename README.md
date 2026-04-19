@@ -11,8 +11,6 @@
 
 ### 🕹️ Links
 
-*   [GitHub](https://github.com/mobs2r/) (You are here!)
-
 *   [Guns](https://guns.lol/mobs2r/)
 *   [Kick](https://kick.com/mobs2r/)
 *   [Quora](https://www.quora.com/profile/mobs2r)
