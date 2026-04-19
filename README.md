@@ -5,7 +5,7 @@
 ---
 
 > *"The future doesn't belong to the architects building polished skyscrapers, it belongs to the scientists building spaceships never designed to return home. Those who aren't doing things that may fail probably aren't doing anything interesting at all."*
-> - Whacko Mastermind
+> [- Whacko Mastermind]
 
 ---
 
