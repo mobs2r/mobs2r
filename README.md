@@ -4,8 +4,7 @@
 
 ---
 
-> *"The future doesn't belong to the architects building polished skyscrapers, it belongs to the scientists building spaceships never designed to return home. Those who aren't doing things that may fail probably aren't doing anything interesting at all."*
-> (- Whacko Mastermind)
+> *"The future doesn't belong to architects building polished skyscrapers, it belongs to scientists building spaceships never designed to return home. Those who aren't doing things that may fail probably aren't doing anything interesting at all."*
 
 ---
 
@@ -40,8 +39,7 @@
 *   [Pronouns](https://pronouns.page/@mobs2r)
 *   [Instagram](https://www.instagram.com/mobs2r)
 *   [Pinterest](pinterest.com/mobs2r)
-*   [Giant Bomb](https://www.giantbomb.com/profile/mobs2r/)
-*   [LambdaGeneration](https://community.lambdageneration.com/user/mobs2r)
+*   [Lambda Generation](https://community.lambdageneration.com/user/mobs2r)
 *   [sneaK's Community](https://snksrv.com/members/mobs2r.4074/)
 
 ---
