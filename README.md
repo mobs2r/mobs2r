@@ -1,5 +1,7 @@
 # 🦊 mobs2r
 
+---
+
 > *"The future doesn't belong to the architects building skyscrapers, it belongs to the scientists building spaceships."*
 
 ---
@@ -8,6 +10,8 @@
 
 *   **Omerta:** [illicit.page](https://illicit.page)
 *   **Hosted on Mmm:** [mobs2r.mmm.page](https://mobs2r.mmm.page)
+
+---
 
 ### 🕹️ Links
 
