@@ -17,11 +17,19 @@
 
 ### 🕹️ Links
 
-*   [Feds](https://feds.lol/mobs2r/)
+*   [Oo](https://oo.bio/mobs2r)
+*   [Uhu](https://uhu.lol/mobs2r)
+*   [YSN](https://ysn.lol/mobs2r)
+*   [Nics](https://nics.lol/mobs2r)
 *   [Kick](https://kick.com/mobs2r/)
 *   [Guns](https://guns.lol/mobs2r/)
+*   [Feds](https://feds.lol/mobs2r/)
+*   [Slat](https://slat.cc/mobs2r/)
+*   [Gluo](https://www.gluo.xyz/user/mobs2r)
+*   [Drift](https://drift.rip/mobs2r)
 *   [Quora](https://www.quora.com/profile/mobs2r)
 *   [Steam](https://steamcommunity.com/id/mobs2r/)
+*   [Haunt](https://haunt.gg/mobs2r)
 *   [Twitch](https://twitch.tv/mobs2r)
 *   [Reddit](https://www.reddit.com/user/mobs2r/)
 *   [Roblox](https://www.roblox.com/users/2009158571/profile)
