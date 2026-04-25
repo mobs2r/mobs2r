@@ -38,7 +38,6 @@
   .link-button:hover {
     transform: translateY(-1px) !important;
   }
-</style>
 
 <p align="center">
   <!-- Original Links -->
@@ -187,7 +186,7 @@
   <a href="https://www.neogaf.com/members/mobs2r.1/" class="link-button" style="display: inline-block; border: 1px solid #000000; border-radius: 20px; padding: 4px 12px; margin: 4px; text-decoration: none; color: inherit;"><img src="https://www.google.com/s2/favicons?domain=neogaf.com" width="16" height="16" style="margin-right: 6px; vertical-align: middle;"> neogaf.com</a>
   <a href="https://www.gamefaqs.com/users/mobs2r" class="link-button" style="display: inline-block; border: 1px solid #000000; border-radius: 20px; padding: 4px 12px; margin: 4px; text-decoration: none; color: inherit;"><img src="https://www.google.com/s2/favicons?domain=gamefaqs.com" width="16" height="16" style="margin-right: 6px; vertical-align: middle;"> gamefaqs.com</a>
 </p>
-
+</style>
 ---
 
 ### 🧃 **This profile is a work in progress..**
