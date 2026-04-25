@@ -12,7 +12,7 @@
 
 ## ⚙️ Mods
 
-|  🎣 Name Tags | 🍉 GMod | 🗑️ Junk Jet | 🍉 GMod |
+| 🎣 Name Tags | 🍉 GMod | 🗑️ Junk Jet | 🍉 GMod |
 |:---:|:---:|:---:|:---:|
 | [steamcommunity.com](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) | [store.steampowered.com](https://store.steampowered.com/app/4000/Garrys_Mod/) | [steamcommunity.com](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) | [store.steampowered.com](https://store.steampowered.com/app/4000/Garrys_Mod/)
 
@@ -23,6 +23,7 @@
 | ⚡ Omerta Chat | 🕸️ Hosted on Mmm! |
 |:---:|:---:|
 | [illicit.page](https://illicit.page) | [mobs2r.mmm.page](https://mobs2r.mmm.page) |
+
 ---
 
 ## 🖼️ NFTs
@@ -84,159 +85,82 @@
 
 ---
 
-## 📋 Links:
+## 📋 Links
 
-<details>
-<summary>📂 <b>Click to expand a huge list of links...</b></summary>
-
-| Platform | Link |
+| | |
 |:---|:---|
-| oo.bio | [oo.bio/mobs2r](https://oo.bio/mobs2r) |
-| uhu.lol | [uhu.lol/mobs2r](https://uhu.lol/mobs2r) |
-| ysn.lol | [ysn.lol/mobs2r](https://ysn.lol/mobs2r) |
-| nics.lol | [nics.lol/mobs2r](https://nics.lol/mobs2r) |
-| guns.lol | [guns.lol/mobs2r](https://guns.lol/mobs2r) |
-| feds.lol | [feds.lol/mobs2r](https://feds.lol/mobs2r) |
-| slat.cc | [slat.cc/mobs2r](https://slat.cc/mobs2r) |
-| gluo.xyz | [gluo.xyz/user/mobs2r](https://www.gluo.xyz/user/mobs2r) |
-| drift.rip | [drift.rip/mobs2r](https://drift.rip/mobs2r) |
-| pronouns.page | [pronouns.page/@mobs2r](https://pronouns.page/@mobs2r) |
-| Steam | [steamcommunity.com/id/mobs2r](https://steamcommunity.com/id/mobs2r/) |
-| SteamDB | [steamdb.info/calculator/76561199041513241](https://steamdb.info/calculator/76561199041513241/) |
-| SteamRep | [steamrep.com/profile/76561199041513241](https://steamrep.com/profile/76561199041513241) |
-| SteamHunters | [steamhunters.com/id/mobs2r](https://steamhunters.com/id/mobs2r) |
-| SteamCardExchange | [steamcardexchange.net](https://www.steamcardexchange.net/index.php?showcase&id=76561199041513241) |
-| Steam.Tools | [steam.tools/calculator/76561199041513241](https://steam.tools/calculator/76561199041513241) |
-| Completionist | [completionist.me/steam/76561199041513241](https://completionist.me/steam/76561199041513241) |
-| Exophase | [exophase.com/user/mobs2r](https://www.exophase.com/user/mobs2r/) |
-| Backloggd | [backloggd.com/u/mobs2r](https://backloggd.com/u/mobs2r/) |
-| HowLongToBeat | [howlongtobeat.com/user/mobs2r](https://howlongtobeat.com/user/mobs2r) |
-| InfiniteBacklog | [infinitebacklog.net/user/mobs2r](https://infinitebacklog.net/user/mobs2r) |
-| RAWG | [rawg.io/@mobs2r](https://rawg.io/@mobs2r) |
-| GOG | [gog.com/u/mobs2r](https://www.gog.com/u/mobs2r) |
-| Itch.io | [mobs2r.itch.io](https://mobs2r.itch.io) |
-| Kick | [kick.com/mobs2r](https://kick.com/mobs2r/) |
-| Twitch | [twitch.tv/mobs2r](https://twitch.tv/mobs2r) |
-| YouTube | [youtube.com/@mobs2r](https://www.youtube.com/@mobs2r/) |
-| Medal | [medal.tv/u/mobs2r](https://medal.tv/u/mobs2r) |
-| Haunt | [haunt.gg/mobs2r](https://haunt.gg/mobs2r) |
-| FaceIT | [faceit.com/en/players/mobs2r](https://www.faceit.com/en/players/mobs2r) |
-| ESL | [eslgaming.com/player/mobs2r](https://www.eslgaming.com/player/mobs2r) |
-| Rockstar Social Club | [socialclub.rockstargames.com/member/mobs2r](https://socialclub.rockstargames.com/member/mobs2r) |
-| LeagueOfGraphs | [leagueofgraphs.com/summoner/na/mobs2r](https://www.leagueofgraphs.com/summoner/na/mobs2r) |
-| U.GG | [u.gg/profile/na/mobs2r](https://u.gg/profile/na/mobs2r) |
-| Dotabuff | [dotabuff.com/players/mobs2r](https://www.dotabuff.com/players/mobs2r) |
-| OpenDota | [opendota.com/players/mobs2r](https://www.opendota.com/players/mobs2r) |
-| R6 Tracker | [r6.tracker.network/profile/pc/mobs2r](https://r6.tracker.network/profile/pc/mobs2r) |
-| Warzone Stats | [wzstats.gg/player/mobs2r](https://www.wzstats.gg/player/mobs2r) |
-| CSGO Tracker | [esc.tracker.network/csgo/mobs2r](https://esc.tracker.network/csgo/mobs2r) |
-| RetroAchievements | [retroachievements.org/user/mobs2r](https://retroachievements.org/user/mobs2r) |
-| Speedrun | [speedrun.com/users/mobs2r](https://www.speedrun.com/users/mobs2r) |
-| GameJolt | [gamejolt.com/@mobs2r](https://gamejolt.com/@mobs2r) |
-| Roblox | [roblox.com/users/2009158571/profile](https://www.roblox.com/users/2009158571/profile) |
-| Xbox | [xbox.com/en-US/profile/mobs2r](https://www.xbox.com/en-US/profile/mobs2r) |
-| PlayStation | [playstation.com/en-us/profile/mobs2r](https://www.playstation.com/en-us/profile/mobs2r) |
-| Epic Games | [epicgames.com/id/mobs2r](https://www.epicgames.com/id/mobs2r) |
-| Origin | [origin.com/profile/mobs2r](https://www.origin.com/profile/mobs2r) |
-| Ubisoft | [uplay.com/profile/mobs2r](https://www.uplay.com/profile/mobs2r) |
-| Battle.net | [battle.net/profile/mobs2r](https://www.battle.net/profile/mobs2r) |
-| Nexus Mods | [nexusmods.com/profile/mobs2r](https://www.nexusmods.com/profile/mobs2r) |
-| GameBanana | [gamebanana.com/members/1728131](https://gamebanana.com/members/1728131) |
-| ModDB | [moddb.com/members/mobs2r](https://www.moddb.com/members/mobs2r) |
-| IndieDB | [indiedb.com/members/mobs2r](https://www.indiedb.com/members/mobs2r) |
-| Planet Minecraft | [planetminecraft.com/member/mobs2r](https://planetminecraft.com/member/mobs2r) |
-| NameMC | [namemc.com/profile/mobs2r](https://namemc.com/profile/mobs2r) |
-| Newgrounds | [newgrounds.com/user/mobs2r](https://www.newgrounds.com/user/mobs2r) |
-| Kongregate | [kongregate.com/accounts/mobs2r](https://www.kongregate.com/accounts/mobs2r) |
-| Armor Games | [armorgames.com/user/mobs2r](https://armorgames.com/user/mobs2r) |
-| AddictingGames | [addictinggames.com/profile/mobs2r](https://www.addictinggames.com/profile/mobs2r) |
-| Miniclip | [miniclip.com/profile/mobs2r](https://www.miniclip.com/profile/mobs2r) |
-| CrazyMonkeyGames | [crazymonkeygames.com/profile/mobs2r](https://www.crazymonkeygames.com/profile/mobs2r) |
-| Flipline | [flipline.com/profile/mobs2r](https://www.flipline.com/profile/mobs2r) |
-| Pogo | [pogo.com/profile/mobs2r](https://www.pogo.com/profile/mobs2r) |
-| CoolMathGames | [coolmathgames.com/user/mobs2r](https://www.coolmathgames.com/user/mobs2r) |
-| Scratch | [scratch.mit.edu/users/mobs2r](https://scratch.mit.edu/users/mobs2r) |
-| Flashpoint Archive | [flashpointarchive.org/user/mobs2r](https://flashpointarchive.org/user/mobs2r) |
-| BlueMaxima Flashpoint | [bluemaxima.org/flashpoint/profile/mobs2r](https://bluemaxima.org/flashpoint/profile/mobs2r) |
-| Spotify | [spotify.com/user/mobs2r](https://www.spotify.com/user/mobs2r) |
-| SoundCloud | [soundcloud.com/mobs2r](https://soundcloud.com/mobs2r) |
-| Bandcamp | [bandcamp.com/mobs2r](https://bandcamp.com/mobs2r) |
-| Mixcloud | [mixcloud.com/mobs2r](https://www.mixcloud.com/mobs2r) |
-| Last.fm | [last.fm/user/mobs2r](https://www.last.fm/user/mobs2r) |
-| RateYourMusic | [rateyourmusic.com/user/mobs2r](https://rateyourmusic.com/user/mobs2r) |
-| Discogs | [discogs.com/user/mobs2r](https://www.discogs.com/user/mobs2r) |
-| DeviantArt | [deviantart.com/mobs2r](https://deviantart.com/mobs2r) |
-| ArtStation | [artstation.com/mobs2r](https://www.artstation.com/mobs2r) |
-| Behance | [behance.net/mobs2r](https://www.behance.net/mobs2r) |
-| Dribbble | [dribbble.com/mobs2r](https://www.dribbble.com/mobs2r) |
-| Unsplash | [unsplash.com/@mobs2r](https://unsplash.com/@mobs2r) |
-| Flickr | [flickr.com/people/mobs2r](https://www.flickr.com/people/mobs2r) |
-| Instagram | [instagram.com/mobs2r](https://www.instagram.com/mobs2r) |
-| Pinterest | [pinterest.com/mobs2r](https://pinterest.com/mobs2r) |
-| Tumblr | [tumblr.com/mobs2r](https://tumblr.com/mobs2r) |
-| GitHub | [github.com/mobs2r](https://github.com/mobs2r) |
-| GitLab | [gitlab.com/mobs2r](https://gitlab.com/mobs2r) |
-| Stack Overflow | [stackoverflow.com/users/mobs2r](https://stackoverflow.com/users/mobs2r) |
-| Wikipedia | [en.wikipedia.org/wiki/User:Mobs2r](https://en.wikipedia.org/wiki/User:Mobs2r) |
-| Hacker News | [news.ycombinator.com/user?id=mobs2r](https://news.ycombinator.com/user?id=mobs2r) |
-| Lobste.rs | [lobste.rs/u/mobs2r](https://lobste.rs/u/mobs2r) |
-| Product Hunt | [producthunt.com/@mobs2r](https://producthunt.com/@mobs2r) |
-| Indie Hackers | [indiehackers.com/user/mobs2r](https://indiehackers.com/user/mobs2r) |
-| WakaTime | [wakatime.com/@mobs2r](https://wakatime.com/@mobs2r) |
-| CodePen | [codepen.io/mobs2r](https://codepen.io/mobs2r) |
-| Replit | [replit.com/@mobs2r](https://replit.com/@mobs2r) |
-| CodeSandbox | [codesandbox.io/u/mobs2r](https://codesandbox.io/u/mobs2r) |
-| Linux.org | [linux.org/members/mobs2r.225451](https://www.linux.org/members/mobs2r.225451/) |
-| Unix.com | [unix.com/members/mobs2r](https://www.unix.com/members/mobs2r/) |
-| BleepingComputer | [bleepingcomputer.com/forums/u/1/mobs2r](https://www.bleepingcomputer.com/forums/u/1/mobs2r/) |
-| XDA Developers | [forum.xda-developers.com/m/mobs2r.1](https://forum.xda-developers.com/m/mobs2r.1/) |
-| OpenSea | [opensea.io/mobs2r](https://opensea.io/mobs2r) |
-| SuperTrip.Land | [supertrip.land/user/mobs2r](https://supertrip.land/user/mobs2r) |
-| CoinMarketCap | [coinmarketcap.com/community/profile/mobs2r](https://coinmarketcap.com/community/profile/mobs2r) |
-| CoinGecko | [coingecko.com/en/user/mobs2r](https://coingecko.com/en/user/mobs2r) |
-| BitcoinTalk | [bitcointalk.org/index.php?action=profile;u=mobs2r](https://bitcointalk.org/index.php?action=profile;u=mobs2r) |
-| TradingView | [tradingview.com/u/mobs2r](https://tradingview.com/u/mobs2r) |
-| About.me | [about.me/mobs2r](https://about.me/mobs2r) |
-| Linktree | [linktr.ee/mobs2r](https://linktr.ee/mobs2r) |
-| Bento.me | [bento.me/mobs2r](https://bento.me/mobs2r) |
-| NGL.link | [ngl.link/mobs2r](https://ngl.link/mobs2r) |
-| Allstar.gg | [allstar.gg/u/mobs2r](https://allstar.gg/u/mobs2r) |
-| Edan's Community | [legacy.edan.gg/profile/76561199041513241](https://legacy.edan.gg/profile/76561199041513241) |
-| sneaK's Community | [snksrv.com/members/mobs2r.4074](https://snksrv.com/members/mobs2r.4074/) |
-| Lambda Generation | [community.lambdageneration.com/user/mobs2r](https://community.lambdageneration.com/user/mobs2r) |
-| Quora | [quora.com/profile/mobs2r](https://www.quora.com/profile/mobs2r) |
-| Reddit | [reddit.com/user/mobs2r](https://www.reddit.com/user/mobs2r/) |
-| X (Twitter) | [x.com/mobs2r](https://x.com/mobs2r) |
-| Discord | [discordapp.com/users/694697572270604308](https://discordapp.com/users/694697572270604308) |
-| TikTok | [tiktok.com/@mobs2r](https://www.tiktok.com/@mobs2r) |
-| Snapchat | [snapchat.com/add/mobs2r](https://www.snapchat.com/add/mobs2r) |
-| KeyHero | [keyhero.com/profile/mobs2r](https://www.keyhero.com/profile/mobs2r/) |
-| KeyMash | [keymash.io/profile/mobs2r-5110](https://keymash.io/profile/mobs2r-5110/) |
-| Imgur | [imgur.com/user/mobs2r](https://imgur.com/user/mobs2r/) |
-| Patreon | [patreon.com/@mobs2r](https://www.patreon.com/@mobs2r) |
-| SteamGifts | [steamgifts.com/user/mobs2r](https://www.steamgifts.com/user/mobs2r) |
-| SteamID | [steamid.io/lookup/76561199041513241](https://steamid.io/lookup/76561199041513241/) |
-| Hitbox | [hitbox.tv/mobs2r](https://www.hitbox.tv/mobs2r) |
-| Trovo | [trovo.live/mobs2r](https://www.trovo.live/mobs2r) |
-| DLive | [dlive.tv/mobs2r](https://www.dlive.tv/mobs2r) |
-| ResetEra | [resetera.com/members/mobs2r.1](https://www.resetera.com/members/mobs2r.1/) |
-| NeoGAF | [neogaf.com/members/mobs2r.1](https://www.neogaf.com/members/mobs2r.1/) |
-| GameFAQs | [gamefaqs.com/users/mobs2r](https://www.gamefaqs.com/users/mobs2r) |
-| Metacritic | [metacritic.com/user/mobs2r](https://www.metacritic.com/user/mobs2r) |
-| IGN | [ign.com/users/mobs2r](https://www.ign.com/users/mobs2r) |
-| GameSpot | [gamespot.com/user/mobs2r](https://www.gamespot.com/user/mobs2r) |
-| Polygon | [polygon.com/users/mobs2r](https://www.polygon.com/users/mobs2r) |
-| Kotaku | [kotaku.com/user/mobs2r](https://www.kotaku.com/user/mobs2r) |
-| Eurogamer | [eurogamer.net/user/mobs2r](https://www.eurogamer.net/user/mobs2r) |
-| Destructoid | [destructoid.com/user/mobs2r](https://www.destructoid.com/user/mobs2r) |
-| RockPaperShotgun | [rockpapershotgun.com/user/mobs2r](https://www.rockpapershotgun.com/user/mobs2r) |
-| PC Gamer | [pcgamer.com/user/mobs2r](https://www.pcgamer.com/user/mobs2r) |
-| GamesRadar | [gamesradar.com/user/mobs2r](https://www.gamesradar.com/user/mobs2r) |
-| VG247 | [vg247.com/user/mobs2r](https://www.vg247.com/user/mobs2r) |
-| Nintendo Life | [nintendolife.com/user/mobs2r](https://www.nintendolife.com/user/mobs2r) |
-| Push Square | [pushsquare.com/user/mobs2r](https://www.pushsquare.com/user/mobs2r) |
-
-</details>
+| <img src="https://www.google.com/s2/favicons?domain=oo.bio" width="16" height="16"> [oo.bio](https://oo.bio/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=uhu.lol" width="16" height="16"> [uhu.lol](https://uhu.lol/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=ysn.lol" width="16" height="16"> [ysn.lol](https://ysn.lol/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=nics.lol" width="16" height="16"> [nics.lol](https://nics.lol/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=guns.lol" width="16" height="16"> [guns.lol](https://guns.lol/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=feds.lol" width="16" height="16"> [feds.lol](https://feds.lol/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=slat.cc" width="16" height="16"> [slat.cc](https://slat.cc/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=gluo.xyz" width="16" height="16"> [gluo.xyz](https://www.gluo.xyz/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=drift.rip" width="16" height="16"> [drift.rip](https://drift.rip/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=pronouns.page" width="16" height="16"> [pronouns.page](https://pronouns.page/@mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=steamcommunity.com" width="16" height="16"> [Steam](https://steamcommunity.com/id/mobs2r/) | <img src="https://www.google.com/s2/favicons?domain=steamdb.info" width="16" height="16"> [SteamDB](https://steamdb.info/calculator/76561199041513241/) |
+| <img src="https://www.google.com/s2/favicons?domain=steamrep.com" width="16" height="16"> [SteamRep](https://steamrep.com/profile/76561199041513241) | <img src="https://www.google.com/s2/favicons?domain=steamhunters.com" width="16" height="16"> [SteamHunters](https://steamhunters.com/id/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=steamcardexchange.net" width="16" height="16"> [SteamCardExchange](https://www.steamcardexchange.net/index.php?showcase&id=76561199041513241) | <img src="https://www.google.com/s2/favicons?domain=steam.tools" width="16" height="16"> [Steam.Tools](https://steam.tools/calculator/76561199041513241) |
+| <img src="https://www.google.com/s2/favicons?domain=completionist.me" width="16" height="16"> [Completionist](https://completionist.me/steam/76561199041513241) | <img src="https://www.google.com/s2/favicons?domain=exophase.com" width="16" height="16"> [Exophase](https://www.exophase.com/user/mobs2r/) |
+| <img src="https://www.google.com/s2/favicons?domain=backloggd.com" width="16" height="16"> [Backloggd](https://backloggd.com/u/mobs2r/) | <img src="https://www.google.com/s2/favicons?domain=howlongtobeat.com" width="16" height="16"> [HowLongToBeat](https://howlongtobeat.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=infinitebacklog.net" width="16" height="16"> [InfiniteBacklog](https://infinitebacklog.net/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=rawg.io" width="16" height="16"> [RAWG](https://rawg.io/@mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=gog.com" width="16" height="16"> [GOG](https://www.gog.com/u/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=itch.io" width="16" height="16"> [Itch.io](https://mobs2r.itch.io) |
+| <img src="https://www.google.com/s2/favicons?domain=kick.com" width="16" height="16"> [Kick](https://kick.com/mobs2r/) | <img src="https://www.google.com/s2/favicons?domain=twitch.tv" width="16" height="16"> [Twitch](https://twitch.tv/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=youtube.com" width="16" height="16"> [YouTube](https://www.youtube.com/@mobs2r/) | <img src="https://www.google.com/s2/favicons?domain=medal.tv" width="16" height="16"> [Medal](https://medal.tv/u/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=haunt.gg" width="16" height="16"> [Haunt](https://haunt.gg/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=faceit.com" width="16" height="16"> [FaceIT](https://www.faceit.com/en/players/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=eslgaming.com" width="16" height="16"> [ESL](https://www.eslgaming.com/player/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=socialclub.rockstargames.com" width="16" height="16"> [Rockstar Social Club](https://socialclub.rockstargames.com/member/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=leagueofgraphs.com" width="16" height="16"> [LeagueOfGraphs](https://www.leagueofgraphs.com/summoner/na/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=u.gg" width="16" height="16"> [U.GG](https://u.gg/profile/na/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=dotabuff.com" width="16" height="16"> [Dotabuff](https://www.dotabuff.com/players/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=opendota.com" width="16" height="16"> [OpenDota](https://www.opendota.com/players/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=tracker.network" width="16" height="16"> [R6 Tracker](https://r6.tracker.network/profile/pc/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=wzstats.gg" width="16" height="16"> [Warzone Stats](https://www.wzstats.gg/player/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=tracker.network" width="16" height="16"> [CSGO Tracker](https://esc.tracker.network/csgo/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=retroachievements.org" width="16" height="16"> [RetroAchievements](https://retroachievements.org/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=speedrun.com" width="16" height="16"> [Speedrun](https://www.speedrun.com/users/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=gamejolt.com" width="16" height="16"> [GameJolt](https://gamejolt.com/@mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=roblox.com" width="16" height="16"> [Roblox](https://www.roblox.com/users/2009158571/profile) | <img src="https://www.google.com/s2/favicons?domain=xbox.com" width="16" height="16"> [Xbox](https://www.xbox.com/en-US/profile/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=playstation.com" width="16" height="16"> [PlayStation](https://www.playstation.com/en-us/profile/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=epicgames.com" width="16" height="16"> [Epic Games](https://www.epicgames.com/id/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=origin.com" width="16" height="16"> [Origin](https://www.origin.com/profile/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=uplay.com" width="16" height="16"> [Ubisoft](https://www.uplay.com/profile/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=battle.net" width="16" height="16"> [Battle.net](https://www.battle.net/profile/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=nexusmods.com" width="16" height="16"> [Nexus Mods](https://www.nexusmods.com/profile/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=gamebanana.com" width="16" height="16"> [GameBanana](https://gamebanana.com/members/1728131) | <img src="https://www.google.com/s2/favicons?domain=moddb.com" width="16" height="16"> [ModDB](https://www.moddb.com/members/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=indiedb.com" width="16" height="16"> [IndieDB](https://www.indiedb.com/members/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=planetminecraft.com" width="16" height="16"> [Planet Minecraft](https://planetminecraft.com/member/mobs2r/) |
+| <img src="https://www.google.com/s2/favicons?domain=namemc.com" width="16" height="16"> [NameMC](https://namemc.com/profile/mobs2r/) | <img src="https://www.google.com/s2/favicons?domain=newgrounds.com" width="16" height="16"> [Newgrounds](https://www.newgrounds.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=kongregate.com" width="16" height="16"> [Kongregate](https://www.kongregate.com/accounts/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=armorgames.com" width="16" height="16"> [Armor Games](https://armorgames.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=addictinggames.com" width="16" height="16"> [AddictingGames](https://www.addictinggames.com/profile/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=miniclip.com" width="16" height="16"> [Miniclip](https://www.miniclip.com/profile/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=crazymonkeygames.com" width="16" height="16"> [CrazyMonkeyGames](https://www.crazymonkeygames.com/profile/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=flipline.com" width="16" height="16"> [Flipline](https://www.flipline.com/profile/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=pogo.com" width="16" height="16"> [Pogo](https://www.pogo.com/profile/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=coolmathgames.com" width="16" height="16"> [CoolMathGames](https://www.coolmathgames.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=scratch.mit.edu" width="16" height="16"> [Scratch](https://scratch.mit.edu/users/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=flashpointarchive.org" width="16" height="16"> [Flashpoint Archive](https://flashpointarchive.org/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=bluemaxima.org" width="16" height="16"> [BlueMaxima Flashpoint](https://bluemaxima.org/flashpoint/profile/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=spotify.com" width="16" height="16"> [Spotify](https://www.spotify.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=soundcloud.com" width="16" height="16"> [SoundCloud](https://soundcloud.com/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=bandcamp.com" width="16" height="16"> [Bandcamp](https://bandcamp.com/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=mixcloud.com" width="16" height="16"> [Mixcloud](https://www.mixcloud.com/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=last.fm" width="16" height="16"> [Last.fm](https://www.last.fm/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=rateyourmusic.com" width="16" height="16"> [RateYourMusic](https://rateyourmusic.com/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=discogs.com" width="16" height="16"> [Discogs](https://www.discogs.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=deviantart.com" width="16" height="16"> [DeviantArt](https://deviantart.com/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=artstation.com" width="16" height="16"> [ArtStation](https://www.artstation.com/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=behance.net" width="16" height="16"> [Behance](https://www.behance.net/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=dribbble.com" width="16" height="16"> [Dribbble](https://www.dribbble.com/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=unsplash.com" width="16" height="16"> [Unsplash](https://unsplash.com/@mobs2r) | <img src="https://www.google.com/s2/favicons?domain=flickr.com" width="16" height="16"> [Flickr](https://www.flickr.com/people/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=instagram.com" width="16" height="16"> [Instagram](https://www.instagram.com/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=pinterest.com" width="16" height="16"> [Pinterest](https://pinterest.com/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=tumblr.com" width="16" height="16"> [Tumblr](https://tumblr.com/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=github.com" width="16" height="16"> [GitHub](https://github.com/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=gitlab.com" width="16" height="16"> [GitLab](https://gitlab.com/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=stackoverflow.com" width="16" height="16"> [Stack Overflow](https://stackoverflow.com/users/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=wikipedia.org" width="16" height="16"> [Wikipedia](https://en.wikipedia.org/wiki/User:Mobs2r) | <img src="https://www.google.com/s2/favicons?domain=ycombinator.com" width="16" height="16"> [Hacker News](https://news.ycombinator.com/user?id=mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=lobste.rs" width="16" height="16"> [Lobste.rs](https://lobste.rs/u/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=producthunt.com" width="16" height="16"> [Product Hunt](https://producthunt.com/@mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=indiehackers.com" width="16" height="16"> [Indie Hackers](https://indiehackers.com/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=wakatime.com" width="16" height="16"> [WakaTime](https://wakatime.com/@mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=codepen.io" width="16" height="16"> [CodePen](https://codepen.io/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=replit.com" width="16" height="16"> [Replit](https://replit.com/@mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=codesandbox.io" width="16" height="16"> [CodeSandbox](https://codesandbox.io/u/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=linux.org" width="16" height="16"> [Linux.org](https://www.linux.org/members/mobs2r.225451/) |
+| <img src="https://www.google.com/s2/favicons?domain=unix.com" width="16" height="16"> [Unix.com](https://www.unix.com/members/mobs2r/) | <img src="https://www.google.com/s2/favicons?domain=bleepingcomputer.com" width="16" height="16"> [BleepingComputer](https://www.bleepingcomputer.com/forums/u/1/mobs2r/) |
+| <img src="https://www.google.com/s2/favicons?domain=xda-developers.com" width="16" height="16"> [XDA Developers](https://forum.xda-developers.com/m/mobs2r.1/) | <img src="https://www.google.com/s2/favicons?domain=opensea.io" width="16" height="16"> [OpenSea](https://opensea.io/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=supertrip.land" width="16" height="16"> [SuperTrip.Land](https://supertrip.land/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=coinmarketcap.com" width="16" height="16"> [CoinMarketCap](https://coinmarketcap.com/community/profile/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=coingecko.com" width="16" height="16"> [CoinGecko](https://coingecko.com/en/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=bitcointalk.org" width="16" height="16"> [BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=tradingview.com" width="16" height="16"> [TradingView](https://tradingview.com/u/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=about.me" width="16" height="16"> [About.me](https://about.me/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=linktr.ee" width="16" height="16"> [Linktree](https://linktr.ee/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=bento.me" width="16" height="16"> [Bento.me](https://bento.me/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=ngl.link" width="16" height="16"> [NGL.link](https://ngl.link/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=allstar.gg" width="16" height="16"> [Allstar.gg](https://allstar.gg/u/mobs2r) |
+| <img src="https://legacy.edan.gg/favicon.ico" width="16" height="16"> [Edan's Community](https://legacy.edan.gg/profile/76561199041513241) | <img src="https://www.google.com/s2/favicons?domain=snksrv.com" width="16" height="16"> [sneaK's Community](https://snksrv.com/members/mobs2r.4074/) |
+| <img src="https://www.google.com/s2/favicons?domain=lambdageneration.com" width="16" height="16"> [Lambda Generation](https://community.lambdageneration.com/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=quora.com" width="16" height="16"> [Quora](https://quora.com/profile/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=reddit.com" width="16" height="16"> [Reddit](https://www.reddit.com/user/mobs2r/) | <img src="https://www.google.com/s2/favicons?domain=x.com" width="16" height="16"> [X (Twitter)](https://x.com/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=discordapp.com" width="16" height="16"> [Discord](https://discordapp.com/users/694697572270604308) | <img src="https://www.google.com/s2/favicons?domain=tiktok.com" width="16" height="16"> [TikTok](https://www.tiktok.com/@mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=snapchat.com" width="16" height="16"> [Snapchat](https://www.snapchat.com/add/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=keyhero.com" width="16" height="16"> [KeyHero](https://www.keyhero.com/profile/mobs2r/) |
+| <img src="https://www.google.com/s2/favicons?domain=keymash.io" width="16" height="16"> [KeyMash](https://keymash.io/profile/mobs2r-5110/) | <img src="https://www.google.com/s2/favicons?domain=imgur.com" width="16" height="16"> [Imgur](https://imgur.com/user/mobs2r/) |
+| <img src="https://www.google.com/s2/favicons?domain=patreon.com" width="16" height="16"> [Patreon](https://www.patreon.com/@mobs2r) | <img src="https://www.google.com/s2/favicons?domain=steamgifts.com" width="16" height="16"> [SteamGifts](https://www.steamgifts.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=steamid.io" width="16" height="16"> [SteamID](https://steamid.io/lookup/76561199041513241/) | <img src="https://www.google.com/s2/favicons?domain=hitbox.tv" width="16" height="16"> [Hitbox](https://www.hitbox.tv/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=trovo.live" width="16" height="16"> [Trovo](https://www.trovo.live/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=dlive.tv" width="16" height="16"> [DLive](https://www.dlive.tv/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=resetera.com" width="16" height="16"> [ResetEra](https://www.resetera.com/members/mobs2r.1/) | <img src="https://www.google.com/s2/favicons?domain=neogaf.com" width="16" height="16"> [NeoGAF](https://www.neogaf.com/members/mobs2r.1/) |
+| <img src="https://www.google.com/s2/favicons?domain=gamefaqs.com" width="16" height="16"> [GameFAQs](https://www.gamefaqs.com/users/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=metacritic.com" width="16" height="16"> [Metacritic](https://www.metacritic.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=ign.com" width="16" height="16"> [IGN](https://www.ign.com/users/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=gamespot.com" width="16" height="16"> [GameSpot](https://www.gamespot.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=polygon.com" width="16" height="16"> [Polygon](https://www.polygon.com/users/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=kotaku.com" width="16" height="16"> [Kotaku](https://www.kotaku.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=eurogamer.net" width="16" height="16"> [Eurogamer](https://www.eurogamer.net/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=destructoid.com" width="16" height="16"> [Destructoid](https://www.destructoid.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=rockpapershotgun.com" width="16" height="16"> [RockPaperShotgun](https://www.rockpapershotgun.com/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=pcgamer.com" width="16" height="16"> [PC Gamer](https://www.pcgamer.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=gamesradar.com" width="16" height="16"> [GamesRadar](https://www.gamesradar.com/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=vg247.com" width="16" height="16"> [VG247](https://www.vg247.com/user/mobs2r) |
+| <img src="https://www.google.com/s2/favicons?domain=nintendolife.com" width="16" height="16"> [Nintendo Life](https://www.nintendolife.com/user/mobs2r) | <img src="https://www.google.com/s2/favicons?domain=pushsquare.com" width="16" height="16"> [Push Square](https://www.pushsquare.com/user/mobs2r) |
 
 ---
 
