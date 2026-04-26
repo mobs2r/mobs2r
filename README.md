@@ -11,7 +11,7 @@
 ---
 
 <details>
-<summary><b>⚙️ Mods</b> (click to expand)</summary>
+<summary><b>⚙️ Mods</b></summary>
 
 <br>
 
@@ -24,7 +24,7 @@
 <br>
 
 <details>
-<summary><b>🌐 Sites</b> (click to expand)</summary>
+<summary><b>🌐 Sites</b></summary>
 
 <br>
 
