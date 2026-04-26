@@ -36,8 +36,8 @@
 
 <br>
 
-<details open>
-<summary><b>🖼️ NFTs</b> (click to expand)</summary>
+<details>
+<summary><b>🖼️ NFTs</b></summary>
 
 <br>
 
@@ -84,30 +84,30 @@
       </a>
     </td>
     <td align="center" width="20%">
-      <!-- Empty cell for future NFT -->
+      <!-- Empty cell. -->
     </td>
     <td align="center" width="20%">
-      <!-- Empty cell for future NFT -->
+      <!-- Empty cell. -->
     </td>
     <td align="center" width="20%">
-      <!-- Empty cell for future NFT -->
+      <!-- Empty cell. -->
     </td>
     <td align="center" width="20%">
-      <!-- Empty cell for future NFT -->
+      <!-- Empty cell. -->
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sup>✨ *Each pfp is a clickable link to its OpenSea page!* ✨</sup>
+  <sup>Each avatar is a clickable link to its OpenSea page!</sup>
 </p>
 
 </details>
 
 <br>
 
-<details open>
-<summary><b>📋 Links</b> (click to expand — 140+ platforms)</summary>
+<details>
+<summary><b>📋 Links</b></summary>
 
 <br>
 
@@ -148,5 +148,5 @@
 ---
 
 <p align="center">
-  <b>🧃 This profile is a work in progress..</b>
+  <b>🧃 This profile is currently a work in progress..</b>
 </p>
