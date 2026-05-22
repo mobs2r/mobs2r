@@ -6,6 +6,8 @@
 
 <p align="center">
   🌈🥀💕🕸️³🍁🦊🍄✳️🐾🌴💫
+
+  I like to make stuff & break stuff. Source Engine & web developer.
 </p>
 
 ---
