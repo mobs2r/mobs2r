@@ -10,7 +10,6 @@
 <p align="center">
 I like to make stuff & break stuff. Source Engine & web developer.
 </p>
----
 
 <details>
 <summary><b>⚙️ Mods</b></summary>
