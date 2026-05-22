@@ -13,12 +13,12 @@
 
 <br>
 
+---
+
 <details>
 <summary><b>⚙️ Mods</b></summary>
 
 <br>
-
----
 
 | 🎣 Name Tags | 🍉 GMod | 🗑️ Junk Jet | 🍉 GMod |
 |:---:|:---:|:---:|:---:|
