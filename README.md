@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FC3&center=true&vCenter=true&width=435&lines=68;487;535;1025;1337;1848;2161;2545;3222;3957;5110;7215;147966;346106;1728131;2009158571;540623756;1081247513;3324247572;3362030272;76561199041513241" alt="Typing SVG" />
 </p>
-
-<!-- Game badges (only CS:GO and CS2) -->
 <p align="center">
   <a href="https://store.steampowered.com/app/4465480/CounterStrike_Global_Offensive/">
     <img src="https://img.shields.io/badge/Legacy%20CS%3AGO-Played?style=flat-square&logo=counter-strike&color=171A21" />
@@ -13,16 +11,12 @@
     <img src="https://img.shields.io/badge/CS2-Played?style=flat-square&logo=counter-strike&color=171A21" />
   </a>
 </p>
-
-<!-- Code badges (CSS logo fixed with white color) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-✓?style=flat-square&logo=lua&color=2C2D72" />
   <img src="https://img.shields.io/badge/HTML-✓?style=flat-square&logo=html5&color=E65100&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-✓?style=flat-square&logo=css&color=1572B6&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-✓?style=flat-square&logo=javascript&color=F7DF1E&logoColor=black" />
 </p>
-
-<!-- Identity badges (trans badge now gray background) -->
 <p align="center">
   <img src="https://img.shields.io/badge/🦊%20Furry-✓?style=flat-square&color=FF8C00" />
   <img src="https://img.shields.io/badge/Trans-HRT?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNDgwIj48cGF0aCBmaWxsPSIjNThjZWZhIiBkPSJNMCAwaDgwMHY0ODBIMHoiLz48cGF0aCBmaWxsPSIjZjVhOWI4IiBkPSJNMCA5Nmg4MDB2Mjg4SDB6Ii8%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMTkyaDgwMHY5NkgweiIvPjwvc3ZnPg%3D%3D&color=6c757d" />
@@ -42,8 +36,6 @@
 
 <details>
 <summary><b>📦 Mods</b></summary>
-
-> Designer & developer. Source engine nerd. Lua, Hammer editor.
 
 | 🎣 WEBFISHING Name Tags | 🗑️ Junk Jet | ⚠️ Neon Error Sign |
 |:---:|:---:|:---:|
@@ -67,8 +59,6 @@
 <details>
 <summary><b>🖼️ NFTs</b></summary>
 
-> A small collage of chain‑based curiosities. Click any avatar to view on OpenSea.
-
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
 | <a href="https://opensea.io/item/ethereum/0x4fb7363cf6d0a546cc0ed8cc0a6c99069170a623/3957"><img src="https://i2c.seadn.io/ape_chain/0xd33edec311f8769c71f132a77f0c0796c22af1c5/f9e8024a438d813336eacfc537d5cc/1ef9e8024a438d813336eacfc537d5cc.png?w=200" width="80" height="80"><br><sub>TokenGator #3957</sub></a> | <a href="https://opensea.io/item/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/1025"><img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/5708872eddd7146738ce8354389358/7d5708872eddd7146738ce8354389358.png?w=200" width="80" height="80"><br><sub>Raticals #1025</sub></a> | <a href="https://opensea.io/item/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/1848"><img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/beb3981696a0e9a5eca1866b98d6bc/8dbeb3981696a0e9a5eca1866b98d6bc.png?w=200" width="80" height="80"><br><sub>Raticals #1848</sub></a> | <a href="https://opensea.io/item/ethereum/0x15dbf06bf49a08dc19a608a2ed906a9a0c0e4b43/3222"><img src="https://i2c.seadn.io/ethereum/0x15dbf06bf49a08dc19a608a2ed906a9a0c0e4b43/97ab3cacf575b01faa015a2f74bd27/6297ab3cacf575b01faa015a2f74bd27.png?w=200" width="80" height="80"><br><sub>D00d #3222</sub></a> | <a href="https://opensea.io/item/ethereum/0x3a514215e8a2607d14f5aaa9fa5160b1b127b43e/7215"><img src="https://i2c.seadn.io/ethereum/0x3a514215e8a2607d14f5aaa9fa5160b1b127b43e/d6312aae98b1e57e9d4680aec808d3/35d6312aae98b1e57e9d4680aec808d3.png?w=200" width="80" height="80"><br><sub>Dead Punk #7215</sub></a> |
@@ -78,8 +68,6 @@
 
 <details>
 <summary><b>🔗 Links</b></summary>
-
-> One list, sorted by URL length. Favicons included. All links active/checked.
 
 <br>
 
