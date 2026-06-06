@@ -4,49 +4,49 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FC3&center=true&vCenter=true&width=435&lines=68;487;535;1025;1337;1848;2161;2545;3222;3957;5110;7215;147966;346106;1728131;2009158571;540623756;1081247513;3324247572;3362030272;76561199041513241" alt="Typing SVG" />
 </p>
 
-<!-- Steam profile badges (logo only + stats, link to Steam profile) -->
+<!-- Steam stats (label + value, Steam logo, links to profile) -->
 <p align="center">
   <a href="https://steamcommunity.com/id/mobs2r/">
-    <img src="https://img.shields.io/badge/-Level%20117?style=flat-square&logo=steam&color=1B2838" />
+    <img src="https://img.shields.io/badge/Level-117?style=flat-square&logo=steam&color=1B2838" />
   </a>
   <a href="https://steamcommunity.com/id/mobs2r/">
-    <img src="https://img.shields.io/badge/-Games%20Owned?style=flat-square&logo=steam&color=1B2838" />
+    <img src="https://img.shields.io/badge/Games-Owned?style=flat-square&logo=steam&color=1B2838" />
   </a>
   <a href="https://steamcommunity.com/id/mobs2r/">
-    <img src="https://img.shields.io/badge/-Items%20Owned?style=flat-square&logo=steam&color=1B2838" />
+    <img src="https://img.shields.io/badge/Items-Owned?style=flat-square&logo=steam&color=1B2838" />
   </a>
 </p>
 
-<!-- Game badges (GMod, Treason, CS:GO, CS2) with logos and links -->
+<!-- Game badges (label + description, logos, links to store) -->
 <p align="center">
   <a href="https://store.steampowered.com/app/4000/Garrys_Mod/">
-    <img src="https://img.shields.io/badge/-GMod%20Addon%20Developer?style=flat-square&logo=garrysmod&color=00ADEE" />
+    <img src="https://img.shields.io/badge/GMod-Addon%20Developer?style=flat-square&logo=garrysmod&color=00ADEE" />
   </a>
   <a href="https://store.steampowered.com/app/1406990/Treason/">
-    <img src="https://img.shields.io/badge/-Klaus%20Veen's%20Treason?style=flat-square&logo=steam&color=171A21" />
+    <img src="https://img.shields.io/badge/Treason-Klaus%20Veen's?style=flat-square&logo=steam&color=171A21" />
   </a>
   <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/">
-    <img src="https://img.shields.io/badge/-CS%3AGO?style=flat-square&logo=steam&color=171A21" />
+    <img src="https://img.shields.io/badge/CS%3AGO-Played?style=flat-square&logo=steam&color=171A21" />
   </a>
   <a href="https://store.steampowered.com/app/730/CounterStrike_2/">
-    <img src="https://img.shields.io/badge/-CS2?style=flat-square&logo=steam&color=171A21" />
+    <img src="https://img.shields.io/badge/CS2-Played?style=flat-square&logo=steam&color=171A21" />
   </a>
 </p>
 
-<!-- Code badges (logo only + language, no links) -->
+<!-- Code badges (label = language, no extra message, language logo) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Lua?style=flat-square&logo=lua&color=2C2D72" />
-  <img src="https://img.shields.io/badge/-HTML?style=flat-square&logo=html5&color=E34F26" />
-  <img src="https://img.shields.io/badge/-CSS?style=flat-square&logo=css3&color=1572B6" />
-  <img src="https://img.shields.io/badge/-JavaScript?style=flat-square&logo=javascript&color=F7DF1E&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lua-✓?style=flat-square&logo=lua&color=2C2D72" />
+  <img src="https://img.shields.io/badge/HTML-✓?style=flat-square&logo=html5&color=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-✓?style=flat-square&logo=css3&color=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-✓?style=flat-square&logo=javascript&color=F7DF1E&logoColor=black" />
 </p>
 
-<!-- Identity badges (logo only + flags, no links) -->
+<!-- Identity badges (label = identity, value = emoji) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Furry%20🦊?style=flat-square&color=FF8C00" />
-  <img src="https://img.shields.io/badge/-Trans%20🏳️‍⚧️?style=flat-square&color=5BCEFA" />
-  <img src="https://img.shields.io/badge/-Non--Binary%20⚧?style=flat-square&color=9B59B6" />
-  <img src="https://img.shields.io/badge/-Two--Spirit%20🤍?style=flat-square&color=D4AF37" />
+  <img src="https://img.shields.io/badge/Furry-🦊?style=flat-square&color=FF8C00" />
+  <img src="https://img.shields.io/badge/Trans-🏳️‍⚧️?style=flat-square&color=5BCEFA" />
+  <img src="https://img.shields.io/badge/Non--Binary-⚧?style=flat-square&color=9B59B6" />
+  <img src="https://img.shields.io/badge/Two--Spirit-🤍?style=flat-square&color=D4AF37" />
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@
 ---
 
 <p align="center">
-  <b>🧃 This profile is a work in progress.</b>
+  <b>🧃 This profile is a work in progress...</b>
 </p>
 
 <p align="center">
