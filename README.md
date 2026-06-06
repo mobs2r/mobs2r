@@ -134,7 +134,7 @@
 ---
 
 <p align="center">
-  <b>🧃 This profile is a work in progress...</b>
+  <b>🧃 This profile is a work in progress.</b>
 </p>
 
 <p align="center">
