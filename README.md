@@ -14,11 +14,11 @@
   </a>
 </p>
 
-<!-- Code badges (CSS with white logo) -->
+<!-- Code badges (CSS logo fixed with white color) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-✓?style=flat-square&logo=lua&color=2C2D72" />
   <img src="https://img.shields.io/badge/HTML-✓?style=flat-square&logo=html5&color=E65100&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-✓?style=flat-square&logo=css3&color=1572B6&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-✓?style=flat-square&logo=css&color=1572B6&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-✓?style=flat-square&logo=javascript&color=F7DF1E&logoColor=black" />
 </p>
 
