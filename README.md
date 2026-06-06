@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FC3&center=true&vCenter=true&width=435&lines=68;487;535;1025;1337;1848;2161;2545;3222;3957;5110;7215;147966;346106;1728131;2009158571;540623756;1081247513;3324247572;3362030272;76561199041513241" alt="Typing SVG" />
 </p>
 
-<!-- Game badges (logos point to actual games, not Steam generic) -->
+<!-- Game badges (with correct logos) -->
 <p align="center">
   <a href="https://store.steampowered.com/app/4000/Garrys_Mod/">
-    <img src="https://img.shields.io/badge/GMod-Addon%20Developer?style=flat-square&logo=garrysmod&color=00ADEE" />
+    <img src="https://img.shields.io/badge/GMod-Addon%20Developer?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMjAwIDBDODkuNTQzIDAgMCA4OS41NDMgMCAyMDBzODkuNTQzIDIwMCAyMDAgMjAwIDIwMC04OS41NDMgMjAwLTIwMFMzMTAuNDU3IDAgMjAwIDB6bTAgMzAwYy01NS4yMjggMC0xMDAtNDQuNzcyLTEwMC0xMDBzNDQuNzcyLTEwMCAxMDAtMTAwIDEwMCA0NC43NzIgMTAwIDEwMC00NC43NzIgMTAwLTEwMCAxMDB6Ii8+PC9zdmc+&color=00ADEE" />
   </a>
   <a href="https://store.steampowered.com/app/1406990/Treason/">
     <img src="https://img.shields.io/badge/Treason-Klaus%20Veen's?style=flat-square&logo=steam&color=171A21" />
@@ -121,7 +121,7 @@
 ---
 
 <p align="center">
-  <b>🧃 This profile is a work in progress – more chaos, links, and weirdness incoming.</b>
+  <b>🧃 This profile is a work in progress...</b>
 </p>
 
 <p align="center">
