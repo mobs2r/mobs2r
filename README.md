@@ -22,10 +22,10 @@
   <img src="https://img.shields.io/badge/JavaScript-✓?style=flat-square&logo=javascript&color=F7DF1E&logoColor=black" />
 </p>
 
-<!-- Identity badges (HRT: no flag emoji, clean) -->
+<!-- Identity badges (trans flag back, no space) -->
 <p align="center">
   <img src="https://img.shields.io/badge/🦊%20Furry-✓?style=flat-square&color=FF8C00" />
-  <img src="https://img.shields.io/badge/HRT-✓?style=flat-square&color=5BCEFA" />
+  <img src="https://img.shields.io/badge/🏳️‍⚧️HRT-✓?style=flat-square&color=5BCEFA" />
   <img src="https://img.shields.io/badge/⚧%20Non--Binary-✓?style=flat-square&color=9B59B6" />
   <img src="https://img.shields.io/badge/🤍%20Two--Spirit-✓?style=flat-square&color=D4AF37" />
 </p>
