@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FC3&center=true&vCenter=true&width=435&lines=68;487;535;1025;1337;1848;2161;2545;3222;3957;5110;7215;147966;346106;1728131;2009158571;540623756;1081247513;3324247572;3362030272;76561199041513241" alt="Typing SVG" />
 </p>
 
-<!-- Game badges (no GMod logo - just text) -->
+<!-- Game badges -->
 <p align="center">
   <a href="https://store.steampowered.com/app/4000/Garrys_Mod/">
     <img src="https://img.shields.io/badge/GMod-Addon%20Developer?style=flat-square&color=00ADEE" />
@@ -20,20 +20,20 @@
   </a>
 </p>
 
-<!-- Code badges -->
+<!-- Code badges (fixed HTML contrast) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-✓?style=flat-square&logo=lua&color=2C2D72" />
-  <img src="https://img.shields.io/badge/HTML-✓?style=flat-square&logo=html5&color=E34F26" />
+  <img src="https://img.shields.io/badge/HTML-✓?style=flat-square&logo=html5&color=E65100&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-✓?style=flat-square&logo=css3&color=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-✓?style=flat-square&logo=javascript&color=F7DF1E&logoColor=black" />
 </p>
 
-<!-- Identity badges -->
+<!-- Identity badges (emoji before text) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Furry-🦊?style=flat-square&color=FF8C00" />
-  <img src="https://img.shields.io/badge/Trans-🏳️‍⚧️?style=flat-square&color=5BCEFA" />
-  <img src="https://img.shields.io/badge/Non--Binary-⚧?style=flat-square&color=9B59B6" />
-  <img src="https://img.shields.io/badge/Two--Spirit-🤍?style=flat-square&color=D4AF37" />
+  <img src="https://img.shields.io/badge/🦊%20Furry-✓?style=flat-square&color=FF8C00" />
+  <img src="https://img.shields.io/badge/🏳️‍⚧️%20Trans-✓?style=flat-square&color=5BCEFA" />
+  <img src="https://img.shields.io/badge/⚧%20Non--Binary-✓?style=flat-square&color=9B59B6" />
+  <img src="https://img.shields.io/badge/🤍%20Two--Spirit-✓?style=flat-square&color=D4AF37" />
 </p>
 
 <p align="center">
