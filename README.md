@@ -4,28 +4,49 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FC3&center=true&vCenter=true&width=435&lines=68;487;535;1025;1337;1848;2161;2545;3222;3957;5110;7215;147966;346106;1728131;2009158571;540623756;1081247513;3324247572;3362030272;76561199041513241" alt="Typing SVG" />
 </p>
 
-<!-- Steam badges (4) -->
+<!-- Steam profile badges (logo only + stats, link to Steam profile) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Steam-Level%20117-1B2838?style=flat-square&logo=steam" />
-  <img src="https://img.shields.io/badge/GMod-Addon%20Developer-00ADEE?style=flat-square&logo=garrysmod" />
-  <img src="https://img.shields.io/badge/Steam-Games%20Owned-1B2838?style=flat-square&logo=steam" />
-  <img src="https://img.shields.io/badge/Steam-Items%20Owned-1B2838?style=flat-square&logo=steam" />
+  <a href="https://steamcommunity.com/id/mobs2r/">
+    <img src="https://img.shields.io/badge/-Level%20117?style=flat-square&logo=steam&color=1B2838" />
+  </a>
+  <a href="https://steamcommunity.com/id/mobs2r/">
+    <img src="https://img.shields.io/badge/-Games%20Owned?style=flat-square&logo=steam&color=1B2838" />
+  </a>
+  <a href="https://steamcommunity.com/id/mobs2r/">
+    <img src="https://img.shields.io/badge/-Items%20Owned?style=flat-square&logo=steam&color=1B2838" />
+  </a>
 </p>
 
-<!-- Code badges (4) -->
+<!-- Game badges (GMod, Treason, CS:GO, CS2) with logos and links -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Lua-2C2D72?style=flat-square&logo=lua" />
-  <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <a href="https://store.steampowered.com/app/4000/Garrys_Mod/">
+    <img src="https://img.shields.io/badge/-GMod%20Addon%20Developer?style=flat-square&logo=garrysmod&color=00ADEE" />
+  </a>
+  <a href="https://store.steampowered.com/app/1406990/Treason/">
+    <img src="https://img.shields.io/badge/-Klaus%20Veen's%20Treason?style=flat-square&logo=steam&color=171A21" />
+  </a>
+  <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/">
+    <img src="https://img.shields.io/badge/-CS%3AGO?style=flat-square&logo=steam&color=171A21" />
+  </a>
+  <a href="https://store.steampowered.com/app/730/CounterStrike_2/">
+    <img src="https://img.shields.io/badge/-CS2?style=flat-square&logo=steam&color=171A21" />
+  </a>
 </p>
 
-<!-- Identity badges (4) -->
+<!-- Code badges (logo only + language, no links) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Furry-🦊-FF8C00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Trans-🏳️‍⚧️-5BCEFA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Non--Binary-⚧-9B59B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Two--Spirit-🤍-D4AF37?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Lua?style=flat-square&logo=lua&color=2C2D72" />
+  <img src="https://img.shields.io/badge/-HTML?style=flat-square&logo=html5&color=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS?style=flat-square&logo=css3&color=1572B6" />
+  <img src="https://img.shields.io/badge/-JavaScript?style=flat-square&logo=javascript&color=F7DF1E&logoColor=black" />
+</p>
+
+<!-- Identity badges (logo only + flags, no links) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Furry%20🦊?style=flat-square&color=FF8C00" />
+  <img src="https://img.shields.io/badge/-Trans%20🏳️‍⚧️?style=flat-square&color=5BCEFA" />
+  <img src="https://img.shields.io/badge/-Non--Binary%20⚧?style=flat-square&color=9B59B6" />
+  <img src="https://img.shields.io/badge/-Two--Spirit%20🤍?style=flat-square&color=D4AF37" />
 </p>
 
 <p align="center">
@@ -38,13 +59,13 @@
 
 ---
 
-## 🧩 Mods & Dev Work
+## 📦 Mods
 
 > Designer & developer. Source engine nerd. Lua, Hammer editor.
 
-| 🎣 WEBFISHING Name Tags | 🗑️ Junk Jet |
-|:---:|:---:|
-| [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) |
+| 🎣 WEBFISHING Name Tags | 🗑️ Junk Jet | ⚠️ Neon Error Sign |
+|:---:|:---:|:---:|
+| [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3346062106) |
 
 | 💻 GitHub Source Code |
 |:---:|
@@ -60,65 +81,23 @@
 
 ---
 
-## 🖼️ Digital Junk (NFTs)
+## 🖼️ NFTs
 
 > A small collage of chain‑based curiosities. Click any avatar to view on OpenSea.
 
-<table align="center">
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://opensea.io/item/ethereum/0x4fb7363cf6d0a546cc0ed8cc0a6c99069170a623/3957">
-        <img src="https://i2c.seadn.io/ape_chain/0xd33edec311f8769c71f132a77f0c0796c22af1c5/f9e8024a438d813336eacfc537d5cc/1ef9e8024a438d813336eacfc537d5cc.png?w=200" width="80" height="80" style="border-radius: 50%;"><br>
-        <sub><b>TokenGator #3957</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://opensea.io/item/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/1025">
-        <img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/5708872eddd7146738ce8354389358/7d5708872eddd7146738ce8354389358.png?w=200" width="80" height="80" style="border-radius: 50%;"><br>
-        <sub><b>Raticals #1025</b></sub>
-      </a>
-    </tr>
-    <td align="center" width="20%">
-      <a href="https://opensea.io/item/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/1848">
-        <img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/beb3981696a0e9a5eca1866b98d6bc/8dbeb3981696a0e9a5eca1866b98d6bc.png?w=200" width="80" height="80" style="border-radius: 50%;"><br>
-        <sub><b>Raticals #1848</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://opensea.io/item/ethereum/0x15dbf06bf49a08dc19a608a2ed906a9a0c0e4b43/3222">
-        <img src="https://i2c.seadn.io/ethereum/0x15dbf06bf49a08dc19a608a2ed906a9a0c0e4b43/97ab3cacf575b01faa015a2f74bd27/6297ab3cacf575b01faa015a2f74bd27.png?w=200" width="80" height="80" style="border-radius: 50%;"><br>
-        <sub><b>D00d #3222</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://opensea.io/item/ethereum/0x3a514215e8a2607d14f5aaa9fa5160b1b127b43e/7215">
-        <img src="https://i2c.seadn.io/ethereum/0x3a514215e8a2607d14f5aaa9fa5160b1b127b43e/d6312aae98b1e57e9d4680aec808d3/35d6312aae98b1e57e9d4680aec808d3.png?w=200" width="80" height="80" style="border-radius: 50%;"><br>
-        <sub><b>Dead Punk #7215</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://opensea.io/item/ethereum/0x1fec768b4d93b473c4fbd227486f48edc813d5a9/2161">
-        <img src="https://i2c.seadn.io/ethereum/0x1fec768b4d93b473c4fbd227486f48edc813d5a9/9a4f1c67878c64f1dd281c59ad29de/7a9a4f1c67878c64f1dd281c59ad29de.png?w=200" width="80" height="80" style="border-radius: 50%;"><br>
-        <sub><b>SmolpNFT #2161</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%"><sub>—</sub> </td>
-    <td align="center" width="20%"><sub>—</sub> </td>
-    <td align="center" width="20%"><sub>—</sub> </td>
-    <td align="center" width="20%"><sub>—</sub> </td>
-  </tr>
-</table>
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://opensea.io/item/ethereum/0x4fb7363cf6d0a546cc0ed8cc0a6c99069170a623/3957"><img src="https://i2c.seadn.io/ape_chain/0xd33edec311f8769c71f132a77f0c0796c22af1c5/f9e8024a438d813336eacfc537d5cc/1ef9e8024a438d813336eacfc537d5cc.png?w=200" width="80" height="80"><br><sub>TokenGator #3957</sub></a> | <a href="https://opensea.io/item/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/1025"><img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/5708872eddd7146738ce8354389358/7d5708872eddd7146738ce8354389358.png?w=200" width="80" height="80"><br><sub>Raticals #1025</sub></a> | <a href="https://opensea.io/item/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/1848"><img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/beb3981696a0e9a5eca1866b98d6bc/8dbeb3981696a0e9a5eca1866b98d6bc.png?w=200" width="80" height="80"><br><sub>Raticals #1848</sub></a> | <a href="https://opensea.io/item/ethereum/0x15dbf06bf49a08dc19a608a2ed906a9a0c0e4b43/3222"><img src="https://i2c.seadn.io/ethereum/0x15dbf06bf49a08dc19a608a2ed906a9a0c0e4b43/97ab3cacf575b01faa015a2f74bd27/6297ab3cacf575b01faa015a2f74bd27.png?w=200" width="80" height="80"><br><sub>D00d #3222</sub></a> | <a href="https://opensea.io/item/ethereum/0x3a514215e8a2607d14f5aaa9fa5160b1b127b43e/7215"><img src="https://i2c.seadn.io/ethereum/0x3a514215e8a2607d14f5aaa9fa5160b1b127b43e/d6312aae98b1e57e9d4680aec808d3/35d6312aae98b1e57e9d4680aec808d3.png?w=200" width="80" height="80"><br><sub>Dead Punk #7215</sub></a> |
+| <a href="https://opensea.io/item/ethereum/0x1fec768b4d93b473c4fbd227486f48edc813d5a9/2161"><img src="https://i2c.seadn.io/ethereum/0x1fec768b4d93b473c4fbd227486f48edc813d5a9/9a4f1c67878c64f1dd281c59ad29de/7a9a4f1c67878c64f1dd281c59ad29de.png?w=200" width="80" height="80"><br><sub>SmolpNFT #2161</sub></a> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 
 ---
 
-## 📋 All Links (condensed, shortest URL first)
+## 🔗 Links
 
 > One list, sorted by URL length. Favicons included. All links active/checked.
 
 <details>
-<summary><b>🔗 Click to expand the full list (214+ links)</b></summary>
+<summary><b>Click to expand</b></summary>
 
 <br>
 
@@ -155,7 +134,7 @@
 ---
 
 <p align="center">
-  <b>🧃 This profile is a work in progress.</b>
+  <b>🧃 This profile is a work in progress...</b>
 </p>
 
 <p align="center">
