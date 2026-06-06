@@ -4,11 +4,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FC3&center=true&vCenter=true&width=435&lines=68;487;535;1025;1337;1848;2161;2545;3222;3957;5110;7215;147966;346106;1728131;2009158571;540623756;1081247513;3324247572;3362030272;76561199041513241" alt="Typing SVG" />
 </p>
 
+<!-- Steam badges (4) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Steam-Level%20117-1B2838?style=flat-square&logo=steam" />
   <img src="https://img.shields.io/badge/GMod-Addon%20Developer-00ADEE?style=flat-square&logo=garrysmod" />
-  <img src="https://img.shields.io/badge/Code-gLua%20%7C%20Lua-2C2D72?style=flat-square&logo=lua" />
-  <img src="https://img.shields.io/badge/Furry-🌈-FF69B4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmNjliNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgM2MzLjg3IDAgNyAzLjEzIDcgN3MtMy4xMyA3LTcgNy03LTMuMTMtNy03IDMuMTMtNyA3LTd6Ii8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/Steam-Games%20Owned-1B2838?style=flat-square&logo=steam" />
+  <img src="https://img.shields.io/badge/Steam-Items%20Owned-1B2838?style=flat-square&logo=steam" />
+</p>
+
+<!-- Code badges (4) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Lua-2C2D72?style=flat-square&logo=lua" />
+  <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<!-- Identity badges (4) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Furry-🦊-FF8C00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trans-🏳️‍⚧️-5BCEFA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Non--Binary-⚧-9B59B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Two--Spirit-🤍-D4AF37?style=flat-square" />
 </p>
 
 <p align="center">
@@ -23,7 +40,7 @@
 
 ## 🧩 Mods & Dev Work
 
-> Designer & developer. Source engine nerd. gLua, Lua, Hammer editor.
+> Designer & developer. Source engine nerd. Lua, Hammer editor.
 
 | 🎣 WEBFISHING Name Tags | 🗑️ Junk Jet |
 |:---:|:---:|
@@ -60,7 +77,7 @@
         <img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/5708872eddd7146738ce8354389358/7d5708872eddd7146738ce8354389358.png?w=200" width="80" height="80" style="border-radius: 50%;"><br>
         <sub><b>Raticals #1025</b></sub>
       </a>
-    </td>
+    </tr>
     <td align="center" width="20%">
       <a href="https://opensea.io/item/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/1848">
         <img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/beb3981696a0e9a5eca1866b98d6bc/8dbeb3981696a0e9a5eca1866b98d6bc.png?w=200" width="80" height="80" style="border-radius: 50%;"><br>
@@ -138,7 +155,7 @@
 ---
 
 <p align="center">
-  <b>🧃 This profile is a work in progress – more chaos, links, and weirdness incoming.</b>
+  <b>🧃 This profile is a work in progress.</b>
 </p>
 
 <p align="center">
