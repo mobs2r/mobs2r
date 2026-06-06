@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78FC3&center=true&vCenter=true&width=435&lines=68;487;535;1025;1337;1848;2161;2545;3222;3957;5110;7215;147966;346106;1728131;2009158571;540623756;1081247513;3324247572;3362030272;76561199041513241" alt="Typing SVG" />
 </p>
 
-<!-- Game badges (with correct logos) -->
+<!-- Game badges (no GMod logo - just text) -->
 <p align="center">
   <a href="https://store.steampowered.com/app/4000/Garrys_Mod/">
-    <img src="https://img.shields.io/badge/GMod-Addon%20Developer?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMjAwIDBDODkuNTQzIDAgMCA4OS41NDMgMCAyMDBzODkuNTQzIDIwMCAyMDAgMjAwIDIwMC04OS41NDMgMjAwLTIwMFMzMTAuNDU3IDAgMjAwIDB6bTAgMzAwYy01NS4yMjggMC0xMDAtNDQuNzcyLTEwMC0xMDBzNDQuNzcyLTEwMCAxMDAtMTAwIDEwMCA0NC43NzIgMTAwIDEwMC00NC43NzIgMTAwLTEwMCAxMDB6Ii8+PC9zdmc+&color=00ADEE" />
+    <img src="https://img.shields.io/badge/GMod-Addon%20Developer?style=flat-square&color=00ADEE" />
   </a>
   <a href="https://store.steampowered.com/app/1406990/Treason/">
     <img src="https://img.shields.io/badge/Treason-Klaus%20Veen's?style=flat-square&logo=steam&color=171A21" />
@@ -46,7 +46,8 @@
 
 ---
 
-## 📦 Mods
+<details>
+<summary><b>📦 Mods</b></summary>
 
 > Designer & developer. Source engine nerd. Lua, Hammer editor.
 
@@ -58,17 +59,19 @@
 |:---:|
 | [github.com/mobs2r](https://github.com/mobs2r) |
 
----
+</details>
 
-## 🌐 Sites
+<details>
+<summary><b>🌐 Sites</b></summary>
 
 | ⚡ Omerta Chat | 🕸️ Hosted on Mmm! |
 |:---:|:---:|
 | [illicit.page](https://illicit.page) | [mobs2r.mmm.page](https://mobs2r.mmm.page) |
 
----
+</details>
 
-## 🖼️ NFTs
+<details>
+<summary><b>🖼️ NFTs</b></summary>
 
 > A small collage of chain‑based curiosities. Click any avatar to view on OpenSea.
 
@@ -77,14 +80,12 @@
 | <a href="https://opensea.io/item/ethereum/0x4fb7363cf6d0a546cc0ed8cc0a6c99069170a623/3957"><img src="https://i2c.seadn.io/ape_chain/0xd33edec311f8769c71f132a77f0c0796c22af1c5/f9e8024a438d813336eacfc537d5cc/1ef9e8024a438d813336eacfc537d5cc.png?w=200" width="80" height="80"><br><sub>TokenGator #3957</sub></a> | <a href="https://opensea.io/item/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/1025"><img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/5708872eddd7146738ce8354389358/7d5708872eddd7146738ce8354389358.png?w=200" width="80" height="80"><br><sub>Raticals #1025</sub></a> | <a href="https://opensea.io/item/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/1848"><img src="https://i2c.seadn.io/ethereum/0xaebbeaf2dc377a5646e47e2b8dee46bd164a9e46/beb3981696a0e9a5eca1866b98d6bc/8dbeb3981696a0e9a5eca1866b98d6bc.png?w=200" width="80" height="80"><br><sub>Raticals #1848</sub></a> | <a href="https://opensea.io/item/ethereum/0x15dbf06bf49a08dc19a608a2ed906a9a0c0e4b43/3222"><img src="https://i2c.seadn.io/ethereum/0x15dbf06bf49a08dc19a608a2ed906a9a0c0e4b43/97ab3cacf575b01faa015a2f74bd27/6297ab3cacf575b01faa015a2f74bd27.png?w=200" width="80" height="80"><br><sub>D00d #3222</sub></a> | <a href="https://opensea.io/item/ethereum/0x3a514215e8a2607d14f5aaa9fa5160b1b127b43e/7215"><img src="https://i2c.seadn.io/ethereum/0x3a514215e8a2607d14f5aaa9fa5160b1b127b43e/d6312aae98b1e57e9d4680aec808d3/35d6312aae98b1e57e9d4680aec808d3.png?w=200" width="80" height="80"><br><sub>Dead Punk #7215</sub></a> |
 | <a href="https://opensea.io/item/ethereum/0x1fec768b4d93b473c4fbd227486f48edc813d5a9/2161"><img src="https://i2c.seadn.io/ethereum/0x1fec768b4d93b473c4fbd227486f48edc813d5a9/9a4f1c67878c64f1dd281c59ad29de/7a9a4f1c67878c64f1dd281c59ad29de.png?w=200" width="80" height="80"><br><sub>SmolpNFT #2161</sub></a> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 
----
-
-## 🔗 Links
-
-> One list, sorted by URL length. Favicons included. All links active/checked.
+</details>
 
 <details>
-<summary><b>Click to expand</b></summary>
+<summary><b>🔗 Links</b></summary>
+
+> One list, sorted by URL length. Favicons included. All links active/checked.
 
 <br>
 
@@ -121,7 +122,7 @@
 ---
 
 <p align="center">
-  <b>🧃 This profile is a work in progress...</b>
+  🧃 This profile is a work in progress...
 </p>
 
 <p align="center">
