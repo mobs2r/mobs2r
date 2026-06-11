@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/JavaScript-✓?style=flat-square&logo=javascript&color=F7DF1E&logoColor=black" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🦊%20Furry-✓?style=flat-square&color=FF8C00" />
+  <img src="https://img.shields.io/badge/🦊%20Furry-✓?style=flat-square&color=white" />
   <img src="https://img.shields.io/badge/Trans-HRT?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgNDgwIj48cGF0aCBmaWxsPSIjNThjZWZhIiBkPSJNMCAwaDgwMHY0ODBIMHoiLz48cGF0aCBmaWxsPSIjZjVhOWI4IiBkPSJNMCA5Nmg4MDB2Mjg4SDB6Ii8%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMTkyaDgwMHY5NkgweiIvPjwvc3ZnPg%3D%3D&color=6c757d" />
   <img src="https://img.shields.io/badge/⚧%20Non--Binary-✓?style=flat-square&color=9B59B6" />
   <img src="https://img.shields.io/badge/🤍%20Two--Spirit-✓?style=flat-square&color=D4AF37" />
