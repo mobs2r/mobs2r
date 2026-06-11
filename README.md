@@ -41,10 +41,6 @@
 |:---:|:---:|:---:|
 | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3346062106) |
 
-| 💻 GitHub Source Code |
-|:---:|
-| [github.com/mobs2r](https://github.com/mobs2r) |
-
 </details>
 
 <details>
