@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  🌈🥀💕🕸️³🍁🦊🍄✳️🐾🌴💫
+  🌈🥀💕🕸️🍁🦊🍄✳️🐾🌴💫
 </p>
 
 <p align="center">
