@@ -39,9 +39,9 @@
 
 | Mod | Description | Link |
 |:---|:---|:---:|
-| 🎣 **WEBFISHING Name Tags** | Adds WEBFISHING-style name tags to Garry's Mod players and NPCs, with tag selection, colour customization, admin-defined titles, and an option to disable them. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) |
-| 🗑️ **Junk Jet** | Turns the Garry's Mod Tool Gun into a Fallout-inspired Junk Jet that launches random physics props instead of conventional ammunition. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) |
-| ⚠️ **Neon Error Sign** | Gives missing-model errors a colourful glow, with player-specific colours and several customizable lighting modes that make asset issues easier to identify. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3346062106) |
+| 🎣<br>**WEBFISHING Name Tags** | Adds WEBFISHING-style name tags to Garry's Mod players and NPCs, with tag selection, colour customization, admin-defined titles, and an option to disable them. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) |
+| 🗑️<br>**Junk Jet** | Turns the Garry's Mod Tool Gun into a Fallout-inspired Junk Jet that launches random physics props instead of conventional ammunition. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) |
+| ⚠️<br>**Neon Error Sign** | Gives missing-model errors a colourful glow, with player-specific colours and several customizable lighting modes that make asset issues easier to identify. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3346062106) |
 
 </details>
 
