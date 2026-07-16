@@ -50,8 +50,7 @@
 
 | Website | Description | Link |
 |:---:|:---|:---:|
-| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Omerta Chat icon">&nbsp;**Omerta&nbsp;Chat** | An interactive social hub featuring chat, player profiles, a global virtual economy, collectible items, games, and a community art directory. | [illicit.page](https://illicit.page) |
-| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Mmm page icon">&nbsp;**Hosted&nbsp;on&nbsp;Mmm!** | My personal corner of the web for showcasing projects, creative work, interests, and links from across my online presence. | [mobs2r.mmm.page](https://mobs2r.mmm.page) |
+| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Omerta Chat icon"><br>[**Omerta&nbsp;Chat**][https://illicit.page] | An interactive social hub built with Illicit API. | [illicit.page](https://illicit.page) |
 
 </details>
 
