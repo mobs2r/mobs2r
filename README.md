@@ -37,18 +37,31 @@
 <details>
 <summary><b>📦 Mods</b></summary>
 
-| 🎣 WEBFISHING Name Tags | 🗑️ Junk Jet | ⚠️ Neon Error Sign |
-|:---:|:---:|:---:|
-| [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3346062106) |
+| Mod | Description | Link |
+|:---|:---|:---:|
+| 🎣 **WEBFISHING Name Tags** | Adds WEBFISHING-style name tags to Garry's Mod players and NPCs, with tag selection, colour customization, admin-defined titles, and an option to disable them. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) |
+| 🗑️ **Junk Jet** | Turns the Garry's Mod Tool Gun into a Fallout-inspired Junk Jet that launches random physics props instead of conventional ammunition. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) |
+| ⚠️ **Neon Error Sign** | Gives missing-model errors a colourful glow, with player-specific colours and several customizable lighting modes that make asset issues easier to identify. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3346062106) |
 
 </details>
 
 <details>
 <summary><b>🌐 Sites</b></summary>
 
-| ⚡ Omerta Chat | 🕸️ Hosted on Mmm! |
-|:---:|:---:|
-| [illicit.page](https://illicit.page) | [mobs2r.mmm.page](https://mobs2r.mmm.page) |
+| Website | Description | Link |
+|:---|:---|:---:|
+| ⚡ **Omerta Chat** | An interactive social hub featuring chat, player profiles, a global virtual economy, collectible items, games, and a community art directory. | [illicit.page](https://illicit.page) |
+| 🕸️ **Hosted on Mmm!** | My personal corner of the web for showcasing projects, creative work, interests, and links from across my online presence. | [mobs2r.mmm.page](https://mobs2r.mmm.page) |
+
+</details>
+
+<details>
+<summary><b>🎮 Games</b></summary>
+
+| Game | Description | Link |
+|:---|:---|:---:|
+| 🕵️ **Klaus Veen's Treason** | I was working on *Klaus Veen's Treason* as far back as 2021, but the game's development cycle stretches much further back to its roots as a *Counter-Strike: Condition Zero* mod. I was initially invited after being active in the early playtests on Source Engine SDK 2013, where I discovered several level-design issues—including the lack of elevated clipping needed to prevent grenade boosting. I was eventually brought onto the team to modify and optimize those levels myself. I also contributed to general game design and mind mapping for features such as the power box. | [Steam](https://store.steampowered.com/app/1786950/Klaus_Veens_Treason/) |
+| 🦊 **Adventures of Glytch** | I worked on updates for *Adventures of Glytch* before the company was acquired by new owners. My goal was to refine the gameplay so it felt smoother and more fluid—akin to *Spelunky*—while integrating the Glytch Coin system in-game so users could compete on speedrun leaderboards and earn Glytch Coin. However, the brand ultimately pivoted away from the Glytch Fox mascot and stopped funding the game, so my work has essentially become vaporware. | [itch.io](https://glytch-energy.itch.io/the-adventures-of-glytch) |
 
 </details>
 
