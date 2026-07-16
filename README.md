@@ -49,9 +49,9 @@
 <summary><b>🌐 Sites</b></summary>
 
 | Website | Description | Link |
-|:---|:---|:---:|
-| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Omerta Chat icon"> **Omerta Chat** | An interactive social hub featuring chat, player profiles, a global virtual economy, collectible items, games, and a community art directory. | [illicit.page](https://illicit.page) |
-| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Mmm page icon"> **Hosted on Mmm!** | My personal corner of the web for showcasing projects, creative work, interests, and links from across my online presence. | [mobs2r.mmm.page](https://mobs2r.mmm.page) |
+|:---:|:---|:---:|
+| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Omerta Chat icon">&nbsp;**Omerta&nbsp;Chat** | An interactive social hub featuring chat, player profiles, a global virtual economy, collectible items, games, and a community art directory. | [illicit.page](https://illicit.page) |
+| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Mmm page icon">&nbsp;**Hosted&nbsp;on&nbsp;Mmm!** | My personal corner of the web for showcasing projects, creative work, interests, and links from across my online presence. | [mobs2r.mmm.page](https://mobs2r.mmm.page) |
 
 </details>
 
@@ -59,9 +59,9 @@
 <summary><b>🎮 Games</b></summary>
 
 | Game | Description | Link |
-|:---|:---|:---:|
-| <img src="https://treason.eu/wp-content/uploads/2022/06/cropped-Nieuw-project-17-192x192.png" width="32" height="32" alt="Treason icon"> **Klaus Veen's Treason** | I was working on *Klaus Veen's Treason* as far back as 2021, but the game's development cycle stretches much further back to its roots as a *Counter-Strike: Condition Zero* mod. I was initially invited after being active in the early playtests on Source Engine SDK 2013, where I discovered several level-design issues—including the lack of elevated clipping needed to prevent grenade boosting. I was eventually brought onto the team to modify and optimize those levels myself. I also contributed to general game design and mind mapping for features such as the power box. | [Steam](https://store.steampowered.com/app/1786950/Klaus_Veens_Treason/) |
-| <img src="https://img.itch.zone/aW1nLzc4MzYyNjIuanBn/32x32%23/0uY5%2Fx.jpg" width="32" height="32" alt="Glytch Energy icon"> **Adventures of Glytch** | I worked on updates for *Adventures of Glytch*, which was created using [GDevelop](https://itch.io/games/made-with-gdevelop), before the company was acquired by new owners. My goal was to refine the gameplay so it felt smoother and more fluid—akin to *Spelunky*—while integrating the Glytch Coin system in-game so users could compete on speedrun leaderboards and earn Glytch Coin. However, the brand ultimately pivoted away from the Glytch Fox mascot and stopped funding the game, so my work has essentially become vaporware. | [itch.io](https://glytch-energy.itch.io/the-adventures-of-glytch) |
+|:---:|:---|:---:|
+| <img src="https://treason.eu/wp-content/uploads/2022/06/cropped-Nieuw-project-17-192x192.png" width="32" height="32" alt="Treason icon">&nbsp;[**Klaus&nbsp;Veen's&nbsp;Treason**](https://store.steampowered.com/app/1786950/Klaus_Veens_Treason/) | I was working on *Klaus Veen's Treason* as far back as 2021, but the game's development cycle stretches much further back to its roots as a *Counter-Strike: Condition Zero* mod. I was initially invited after being active in the early playtests on Source Engine SDK 2013, where I discovered several level-design issues—including the lack of elevated clipping needed to prevent grenade boosting. I was eventually brought onto the team to modify and optimize those levels myself. I also contributed to general game design and mind mapping for features such as the power box. | [Steam](https://store.steampowered.com/app/1786950/Klaus_Veens_Treason/) |
+| <img src="https://liquipedia.net/commons/images/thumb/e/ef/Glytch_Gaming_lightmode.png/600px-Glytch_Gaming_lightmode.png" width="32" height="32" alt="Glytch Energy icon">&nbsp;[**Adventures&nbsp;of&nbsp;Glytch**](https://glytch-energy.itch.io/the-adventures-of-glytch) | I worked on updates for *Adventures of Glytch*, which was created using [GDevelop](https://itch.io/games/made-with-gdevelop), before the company was acquired by new owners. My goal was to refine the gameplay so it felt smoother and more fluid—akin to *Spelunky*—while integrating the Glytch Coin system in-game so users could compete on speedrun leaderboards and earn Glytch Coin. However, the brand ultimately pivoted away from the Glytch Fox mascot and stopped funding the game, so my work has essentially become vaporware. | [itch.io](https://glytch-energy.itch.io/the-adventures-of-glytch) |
 
 </details>
 
@@ -69,16 +69,16 @@
 <summary><b>🤝 Partners</b></summary>
 
 | Partner | Status |
-|:---|:---:|
-| <img src="https://www.google.com/s2/favicons?domain=snksrv.com&amp;sz=64" width="32" height="32" alt="snksrv.com icon"> [**snksrv.com**](https://snksrv.com) | **Active** |
-| <img src="https://treason.eu/wp-content/uploads/2022/06/cropped-Nieuw-project-17-192x192.png" width="32" height="32" alt="treason.eu icon"> [**treason.eu**](https://treason.eu) | **Active** |
-| <img src="https://www.google.com/s2/favicons?domain=rampagecoffee.com&amp;sz=64" width="32" height="32" alt="rampagecoffee.com icon"> [**rampagecoffee.com**](https://rampagecoffee.com) | **Active** |
-| <img src="https://www.google.com/s2/favicons?domain=edan.gg&amp;sz=64" width="32" height="32" alt="edan.gg icon"> [**edan.gg**](https://edan.gg) | Former |
-| <img src="https://www.google.com/s2/favicons?domain=xplay.gg&amp;sz=64" width="32" height="32" alt="xplay.gg icon"> [**xplay.gg**](https://xplay.gg) | Former |
-| <img src="https://www.google.com/s2/favicons?domain=overwolf.com&amp;sz=64" width="32" height="32" alt="overwolf.com icon"> [**overwolf.com**](https://overwolf.com) | Former |
-| <img src="https://www.google.com/s2/favicons?domain=excorp.gg&amp;sz=64" width="32" height="32" alt="excorp.gg icon"> [**excorp.gg**](https://excorp.gg) | Former |
-| <img src="https://www.google.com/s2/favicons?domain=cs.money&amp;sz=64" width="32" height="32" alt="cs.money icon"> [**cs.money**](https://cs.money) | Former |
-| <img src="https://www.google.com/s2/favicons?domain=scope.gg&amp;sz=64" width="32" height="32" alt="scope.gg icon"> [**scope.gg**](https://scope.gg) | Former |
+|:---:|:---:|
+| <img src="https://www.google.com/s2/favicons?domain=snksrv.com&amp;sz=64" width="32" height="32" alt="snksrv.com icon">&nbsp;[**snksrv.com**](https://snksrv.com) | **Active** |
+| <img src="https://treason.eu/wp-content/uploads/2022/06/cropped-Nieuw-project-17-192x192.png" width="32" height="32" alt="treason.eu icon">&nbsp;[**treason.eu**](https://treason.eu) | **Active** |
+| <img src="https://rampagecoffee.com/cdn/shop/files/RCC-round-Logo-white_background_-_Large_PNG_file.png?v=1614324660" width="32" height="32" alt="rampagecoffee.com icon">&nbsp;[**rampagecoffee.com**](https://rampagecoffee.com) | **Active** |
+| <img src="https://www.google.com/s2/favicons?domain=edan.gg&amp;sz=64" width="32" height="32" alt="edan.gg icon">&nbsp;[**edan.gg**](https://edan.gg) | Former |
+| <img src="https://www.google.com/s2/favicons?domain=xplay.gg&amp;sz=64" width="32" height="32" alt="xplay.gg icon">&nbsp;[**xplay.gg**](https://xplay.gg) | Former |
+| <img src="https://www.overwolf.com/.content/assets/images/iso-logo.svg" width="32" height="32" alt="overwolf.com icon">&nbsp;[**overwolf.com**](https://overwolf.com) | Former |
+| <img src="https://excorp.gg/fav-shortcut.png" width="32" height="32" alt="excorp.gg icon">&nbsp;[**excorp.gg**](https://excorp.gg) | Former |
+| <img src="https://www.google.com/s2/favicons?domain=cs.money&amp;sz=64" width="32" height="32" alt="cs.money icon">&nbsp;[**cs.money**](https://cs.money) | Former |
+| <img src="https://www.google.com/s2/favicons?domain=scope.gg&amp;sz=64" width="32" height="32" alt="scope.gg icon">&nbsp;[**scope.gg**](https://scope.gg) | Former |
 
 </details>
 
