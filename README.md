@@ -34,6 +34,20 @@
 
 ---
 
+## Current projects
+
+These are the projects I am actively building through Illicit Corporation and its connected services.
+
+| Project | What it is | Links |
+|:---|:---|:---:|
+| 🎯 **cod.city** | A unified browser FPS in active development, combining Wii-era asset research with shared progression, local split-screen play, and Omerta/Illicit-connected services. | [Live](https://www.cod.city) · [Code](https://github.com/mobs2r/cod.city) |
+| 🥊 **gKnuckle Portal** | A Steam-authenticated portal and live server browser for White Knuckle on Garry's Mod, with license checks, matchmaking, official/community listings, and CrabCoin support. | [Code](https://github.com/mobs2r/gknuckle-portal) |
+| 🦊 **Illicit Corporation** | The public home and developer entry point for the connected Illicit projects, including cod.city, gKnuckle, Omerta Chat, and supporting services. | [Site](https://illicit.page) · [Code](https://github.com/mobs2r/illicit-corporation-site) |
+| 💬 **Omerta Chat** | An interactive social hub that provides identity, chat, and connected-economy features across the Illicit ecosystem. | [Site](https://omerta.chat) · [Code](https://github.com/mobs2r/omerta) |
+| 🪙 **CrabCoin API** | Supporting account and balance infrastructure used by Omerta Chat and connected game experiences. | [Code](https://github.com/mobs2r/crabcoin-api) |
+
+---
+
 <details>
 <summary><b>📦 Mods</b></summary>
 
@@ -50,7 +64,8 @@
 
 | Website | Description | Link |
 |:---:|:---|:---:|
-| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Omerta Chat icon"><br>[**Omerta&nbsp;Chat**](https://illicit.page) | An interactive social hub built with Illicit API. | [Site](https://illicit.page) |
+| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Omerta Chat icon"><br>[**Omerta&nbsp;Chat**](https://omerta.chat) | An interactive social hub built with Illicit API. | [Site](https://omerta.chat) · [Code](https://github.com/mobs2r/omerta) |
+| 🏢<br>[**Illicit&nbsp;Corporation**](https://illicit.page) | The home page and developer entry point for the connected Illicit projects. | [Site](https://illicit.page) · [Code](https://github.com/mobs2r/illicit-corporation-site) |
 
 </details>
 
