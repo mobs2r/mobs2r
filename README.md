@@ -34,43 +34,68 @@
 
 ---
 
-## Current projects
+<h2 align="center">🌐 The Illicit worlds</h2>
 
-These are the projects I am actively building through Illicit Corporation and its connected services.
+<p align="center"><sub>One Illicit ID, one coin and one inventory, carried across every world.</sub></p>
 
-| Project | What it is | Links |
-|:---|:---|:---:|
-| 🎯 **cod.city** | A unified browser FPS in active development, combining Wii-era asset research with shared progression, local split-screen play, and Omerta/Illicit-connected services. | [Live](https://www.cod.city) · [Code](https://github.com/mobs2r/cod.city) |
-| 🥊 **gKnuckle** | A rogue-lite climbing mod for Garry's Mod, a mix of old & new. Its Steam-authenticated portal has the live server browser, a WiKi, the MiLL for turning banked roaches into COiNS, and WiSHES, where players vote on item and perk odds with their COiNS. | [Live](https://www.gk.style) · [Code](https://github.com/mobs2r/gknuckle-portal) |
-| 🦊 **Illicit Corporation** | The public home and developer entry point for the connected Illicit projects, including cod.city, gKnuckle, Omerta Chat, and supporting services. | [Site](https://illicit.page) · [Code](https://github.com/mobs2r/illicit-corporation-site) |
-| 💬 **Omerta Chat** | An interactive social hub with identity, chat, an arcade (Riff Rush, Pool, Place, Chess and more) and the connected economy shared across the Illicit ecosystem. Plays with keyboard, gamepads, guitars and Wii Remotes. | [Site](https://omerta.chat) · [Code](https://github.com/mobs2r/omerta) |
-| 🔱 **Atlantis Chat** | A scaled-down sister of Omerta Chat with an all-ages, PG feel. | [Site](https://mobs2r.tumblr.com) |
-| 💬 **Вандам(e)баш** | A scaled-down sister of Omerta Chat with a Slavic feel. | — |
-| 🪙 **Illicit API** | Supporting account and balance infrastructure used by Omerta Chat and connected game experiences. | [Code](https://github.com/mobs2r/crabcoin-api) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://omerta.chat">Omerta Chat</a></h3>
+      <p>The social hub at the centre of it all: identity, chat, a full arcade (Riff Rush, Pool, Place, Chess, Crash and more) and the shared economy. Plays with keyboard, gamepads, guitars and Wii Remotes.</p>
+      <a href="https://omerta.chat"><img src="https://img.shields.io/badge/live-omerta.chat-F78FC3?style=flat-square" alt="live: omerta.chat" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔱 <a href="https://mobs2r.tumblr.com">Atlantis Chat</a></h3>
+      <p>Omerta's all-ages sister: the same arcade, collection and chat, scaled down with a PG feel.</p>
+      <a href="https://mobs2r.tumblr.com"><img src="https://img.shields.io/badge/live-mobs2r.tumblr.com-88BCF0?style=flat-square" alt="live: mobs2r.tumblr.com" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://www.cod.city">cod.city</a></h3>
+      <p>A unified browser FPS built on Wii-era asset research, with shared progression, local split-screen and Omerta-connected items.</p>
+      <a href="https://www.cod.city"><img src="https://img.shields.io/badge/live-cod.city-A4D8BD?style=flat-square" alt="live: cod.city" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥊 <a href="https://www.gk.style">gKnuckle</a></h3>
+      <p>A rogue-lite climbing mod for Garry's Mod, a mix of old &amp; new. Its portal runs the server browser, a WiKi, the roach MiLL and WiSHES, where players vote on the odds with COiNS.</p>
+      <a href="https://www.gk.style"><img src="https://img.shields.io/badge/live-gk.style-FF9A1F?style=flat-square" alt="live: gk.style" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="https://illicit.page">Illicit Corporation</a></h3>
+      <p>The public home and developer entry point for every connected Illicit project.</p>
+      <a href="https://illicit.page"><img src="https://img.shields.io/badge/live-illicit.page-171A21?style=flat-square" alt="live: illicit.page" /></a> <a href="https://github.com/mobs2r/illicit-corporation-site"><img src="https://img.shields.io/badge/code-illicit--corporation--site-171A21?style=flat-square&logo=github" alt="code: illicit--corporation--site" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪙 Illicit API</h3>
+      <p>The account, wallet and economy spine behind Omerta, Atlantis, Вандам(e)баш, cod.city and gKnuckle. Self-hostable, analytics by Mushroom.</p>
+      <sub>Private while it's in the oven.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Garry's%20Mod-1194F0?style=flat-square&logo=steam&logoColor=white" alt="Garry's Mod" />
+  <img src="https://img.shields.io/badge/Source%20Engine-F79A10?style=flat-square&logo=valve&logoColor=white" alt="Source Engine" />
+  <img src="https://img.shields.io/badge/mmm.page-111111?style=flat-square" alt="mmm.page" />
+</p>
 
 ---
 
 <details>
-<summary><b>📦 Mods</b></summary>
+<summary><b>📦 Garry's Mod addons</b></summary>
 
 | Mod | Description | Link |
 |:---|:---|:---:|
-| 🎣<br>**WEBFISHING Name Tags** | Adds WEBFISHING-style name tags to Garry's Mod players and NPCs, with tag selection, colour customization, admin-defined titles, and an option to disable them. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) |
-| 🗑️<br>**Junk Jet** | Turns the Garry's Mod Tool Gun into a Fallout-inspired Junk Jet that launches random physics props instead of conventional ammunition. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) |
-| ⚠️<br>**Neon Error Sign** | Gives missing-model errors a colourful glow, with player-specific colours and several customizable lighting modes that make asset issues easier to identify. | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3346062106) |
-
-</details>
-
-<details>
-<summary><b>🌐 Sites</b></summary>
-
-| Website | Description | Link |
-|:---:|:---|:---:|
-| <img src="https://asset.mmm.page/7b/048955273245e39145e1fcae42b213/104lgbc.png" width="32" height="32" alt="Omerta Chat icon"><br>[**Omerta&nbsp;Chat**](https://omerta.chat) | An interactive social hub built with Illicit API. | [Site](https://omerta.chat) · [Code](https://github.com/mobs2r/omerta) |
-| 🔱<br>[**Atlantis&nbsp;Chat**](https://mobs2r.tumblr.com) | The all-ages sister of Omerta Chat. | [Site](https://mobs2r.tumblr.com) |
-| 🎯<br>[**cod.city**](https://www.cod.city) | The browser FPS and its launcher. | [Site](https://www.cod.city) |
-| 🥊<br>[**gk.style**](https://www.gk.style) | The gKnuckle portal: servers, WiKi, MiLL and WiSHES. | [Site](https://www.gk.style) · [Code](https://github.com/mobs2r/gknuckle-portal) |
-| 🏢<br>[**Illicit&nbsp;Corporation**](https://illicit.page) | The home page and developer entry point for the connected Illicit projects. | [Site](https://illicit.page) · [Code](https://github.com/mobs2r/illicit-corporation-site) |
+| 🎣<br>**WEBFISHING Name Tags** | Adds WEBFISHING-style name tags to Garry's Mod players and NPCs, with tag selection, colour customization, admin-defined titles, and an option to disable them. | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3362030272) |
+| 🗑️<br>**Junk Jet** | Turns the Garry's Mod Tool Gun into a Fallout-inspired Junk Jet that launches random physics props instead of conventional ammunition. | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3324247572) · [Code](https://github.com/mobs2r/junkjet) |
+| ⚠️<br>**Neon Error Sign** | Gives missing-model errors a colourful glow, with player-specific colours and several customizable lighting modes that make asset issues easier to identify. | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3346062106) · [Code](https://github.com/mobs2r/neonerror) |
 
 </details>
 
