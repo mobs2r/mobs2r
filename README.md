@@ -41,10 +41,12 @@ These are the projects I am actively building through Illicit Corporation and it
 | Project | What it is | Links |
 |:---|:---|:---:|
 | 🎯 **cod.city** | A unified browser FPS in active development, combining Wii-era asset research with shared progression, local split-screen play, and Omerta/Illicit-connected services. | [Live](https://www.cod.city) · [Code](https://github.com/mobs2r/cod.city) |
-| 🥊 **gKnuckle Portal** | A Steam-authenticated portal and live server browser for White Knuckle on Garry's Mod, with license checks, matchmaking, official/community listings, and CrabCoin support. | [Code](https://github.com/mobs2r/gknuckle-portal) |
+| 🥊 **gKnuckle** | A Steam-authenticated portal and live server browser for gKnuckle. | [Code](https://github.com/mobs2r/gknuckle-portal) |
 | 🦊 **Illicit Corporation** | The public home and developer entry point for the connected Illicit projects, including cod.city, gKnuckle, Omerta Chat, and supporting services. | [Site](https://illicit.page) · [Code](https://github.com/mobs2r/illicit-corporation-site) |
 | 💬 **Omerta Chat** | An interactive social hub that provides identity, chat, and connected-economy features across the Illicit ecosystem. | [Site](https://omerta.chat) · [Code](https://github.com/mobs2r/omerta) |
-| 🪙 **CrabCoin API** | Supporting account and balance infrastructure used by Omerta Chat and connected game experiences. | [Code](https://github.com/mobs2r/crabcoin-api) |
+| 💬 **Atlantis Chat** | A faithful Omerta Chat repo, that is scaled down, with a more PG oriented feeling.
+| 💬 **Вандам(e)баш** | A faithful Omerta Chat repo, that is scaled down, with a more Slavic oriented feeling.
+| 🪙 **Illicit API** | Supporting account and balance infrastructure used by Omerta Chat and connected game experiences. | [Code](https://github.com/mobs2r/crabcoin-api) |
 
 ---
 
