@@ -33,11 +33,6 @@
 </p>
 
 ---
-
-<h2 align="center">🌐 The Illicit worlds</h2>
-
-<p align="center"><sub>One Illicit ID, one coin and one inventory, carried across every world.</sub></p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
